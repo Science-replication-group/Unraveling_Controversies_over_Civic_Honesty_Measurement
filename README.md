@@ -8,24 +8,22 @@ Structure and contents
 
 -Codebook: Detail descriptions of variables 
 
--data:
+-data files:
 
-•	Replication experiment and others_data (stata data file): Data from the extended replication experiment of the lost wallet experiment in Cohn et al. (2019), an online survey, and the China Statistical Yearbook in Stata format
+•	Replication experiment and others_data (stata data file): Data(in Stata format) including data for the extended replication experiment of the lost wallet experiment in Cohn et al. (2019), online survey data, and the data extracted from China Statistical Yearbook
 
-•	Online national representative survey_data (stata data file): Data of the nationally representative survey in Stata format
+•	Online national representative survey_data (stata data file): Stata format data for the nationally representative survey
 
-•	Replication experiment and others_data (csv file): Data from the extended replication experiment of the lost wallet experiment in Cohn et al. (2019), an online survey, and the China Statistical Yearbook in csv format
+•	Replication experiment and others_data (csv file): Data(csv format) including data for the extended replication experiment of the lost wallet experiment in Cohn et al. (2019), online survey data, and the data extracted from China Statistical Yearbook
 
-•	Online national representative survey_data (csv file): Data of the nationally representative survey in csv format
-
-
--dofile:
-
-analysis_tables and figures: Stata do-file to recreate tables, figures and supplementary analysis
+•	Online national representative survey_data (csv file): CSV format data for the nationally representative survey
 
 
-Instructions
+-code file:
+
+code_for_replication_experiment: Stata do-file to generate tables, figures and supplementary analysis
+
+
+Notations
 
 It is recommended to execute the do-files utilizing Stata 16 from their respective directory.
-
-Fig. 2 and Fig. 3 in the paper were created using R Programming Language and ArcGIS, respectively.
