@@ -1,0 +1,497 @@
+id,city,institution,money,dropoff_day,email,wallet_recovery,wallet_totalrecovery,male,age40,computer,coworkers,other_bystanders,security_cam,security_guard,english,understood_situation,busy,hotel,bank,cultural,public,postal,name_owner,record,o_male,o_age40,o_computer,o_coworkers,o_other_bystanders,o_employees_handle,o_security_cam,o_security_guard,o_english,o_understood_situation,o_busy,revisit_day,r_employees_handle,r_hnsty_nocontact,r_hnsty_takeaway,r_knwres,keymissing,cardmissing,notemissing,moneymissing,wcovermissing,wavialabel,rice,cis
+28_001,Chengdu,Hotel,Money,28Aug2019,0,100,100,1,smaller than 40,1,1,,,0,1,4,4,1,0,0,0,0,Li Qiang,1,1,smaller than 40,1,1,0,3 or more,1,0,1,5,1,05Sep2019,2,0,0,0,0,0,0,0,0,0,50.99,4.02
+28_002,Chengdu,Cultural Attractions,No Money,28Aug2019,0,100,100,1,smaller than 40,1,0,1,,,0,5,6,0,0,1,0,0,Chang Wei,0,,,,,,,1,0,,,,05Sep2019,2,3,0,0,0,0,0,,0,0,50.99,4.02
+28_003,Chengdu,Public Place,No Money,28Aug2019,0,100,100,1,smaller than 40,1,0,0,,0,0,6,3,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,05Sep2019,1,2,3,0,0,0,0,,0,0,50.99,4.02
+28_004,Chengdu,Public Place,Money,28Aug2019,100,100,100,1,smaller than 40,1,1,1,1,1,1,6,2,0,0,0,1,0,Chang Wei,1,1,smaller than 40,1,1,0,3 or more,1,0,1,6,0,05Sep2019,2,0,6,0,0,0,0,0,0,0,50.99,4.02
+28_005,Chengdu,Cultural Attractions,Money,28Aug2019,0,100,100,0,smaller than 40,1,1,1,,0,0,5,5,0,0,1,0,0,Wang Lei,1,0,smaller than 40,1,1,0,2,1,0,0,6,4,05Sep2019,2,1,3,1,0,0,0,0,0,0,50.99,4.02
+28_006,Chengdu,Postal Office,No Money,28Aug2019,0,100,100,1,smaller than 40,0,0,1,,0,0,3,5,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,05Sep2019,1,3,6,0,0,0,0,,0,0,50.99,4.02
+28_007,Chengdu,Public Place,Money,28Aug2019,0,100,0,0,smaller than 40,1,1,1,,,0,6,4,0,0,0,1,0,Chang Wei,1,0,smaller than 40,1,1,1,3 or more,1,0,0,6,3,05Sep2019,,,,,0,0,0,1,0,0,50.99,4.02
+28_008,Chengdu,Postal Office,No Money,28Aug2019,0,100,100,0,smaller than 40,1,1,1,,,0,4,4,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,05Sep2019,2,3,3,0,0,0,0,,0,0,50.99,4.02
+28_009,Chengdu,Hotel,No Money,28Aug2019,0,100,100,0,smaller than 40,1,0,1,,,0,6,0,1,0,0,0,0,Li Qiang,1,0,smaller than 40,1,0,1,1,1,0,0,6,1,05Sep2019,1,0,6,0,0,0,0,,0,0,50.99,4.02
+28_010,Chengdu,Bank,Money,29Aug2019,100,100,100,0,smaller than 40,0,1,1,1,1,0,6,5,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,05Sep2019,2,3,6,0,0,0,0,0,0,0,50.99,4.02
+28_011,Chengdu,Public Place,Money,29Aug2019,0,100,100,1,smaller than 40,1,0,1,1,1,0,6,4,0,0,0,1,0,Li Qiang,1,1,smaller than 40,1,1,0,2,1,0,0,6,0,05Sep2019,2,,,0,0,0,0,0,0,0,50.99,4.02
+28_012,Chengdu,Public Place,No Money,29Aug2019,100,0,0,0,40+,1,1,1,,,0,6,6,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,05Sep2019,3 or more,6,6,0,1,1,1,,1,0,50.99,4.02
+28_013,Chengdu,Bank,No Money,29Aug2019,0,100,100,0,smaller than 40,0,0,1,1,,1,6,2,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,05Sep2019,2,6,,0,0,0,0,,0,0,50.99,4.02
+28_014,Chengdu,Bank,Money,29Aug2019,0,100,100,1,smaller than 40,0,1,0,1,,0,6,3,0,1,0,0,0,Wang Lei,1,1,smaller than 40,,1,0,1,1,0,0,6,0,05Sep2019,9,0,6,0,0,0,0,0,0,0,50.99,4.02
+28_015,Chengdu,Bank,Money,29Aug2019,0,100,100,0,smaller than 40,1,1,,1,1,0,5,5,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,05Sep2019,2,5,6,0,0,0,0,0,0,0,50.99,4.02
+28_016,Chengdu,Cultural Attractions,No Money,29Aug2019,100,100,100,0,smaller than 40,1,1,1,,0,0,5,2,0,0,1,0,0,Chang Wei,1,0,smaller than 40,1,1,1,3 or more,1,0,0,6,0,05Sep2019,3 or more,3,6,0,0,0,0,,0,0,50.99,4.02
+28_017,Chengdu,Bank,No Money,29Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,0,0,6,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,05Sep2019,,,,,0,0,0,,0,0,50.99,4.02
+28_018,Chengdu,Hotel,Money,29Aug2019,0,100,100,0,smaller than 40,1,0,1,,,1,6,4,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,0,1,1,1,0,1,6,0,05Sep2019,9,6,6,0,0,0,0,0,0,0,50.99,4.02
+28_019,Chengdu,Postal Office,Money,29Aug2019,0,100,0,0,smaller than 40,1,1,1,,0,0,5,5,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,05Sep2019,2,1,3,0,0,0,0,1,0,0,50.99,4.02
+28_020,Chengdu,Bank,No Money,30Aug2019,0,100,100,0,smaller than 40,1,1,,1,1,0,6,6,0,1,0,0,0,Chang Wei,1,0,smaller than 40,0,1,0,3 or more,1,0,1,6,0,09Sep2019,2,3,3,0,0,0,0,,0,0,50.99,4.02
+28_021,Chengdu,Public Place,No Money,30Aug2019,0,100,100,1,smaller than 40,1,1,1,,0,0,6,6,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,09Sep2019,9,6,0,0,0,0,0,,0,0,50.99,4.02
+28_022,Chengdu,Postal Office,Money,30Aug2019,0,100,100,1,smaller than 40,1,0,0,,0,0,5,3,0,0,0,0,1,Chang Wei,1,1,smaller than 40,1,0,0,1,,0,0,3,1,09Sep2019,9,6,6,0,0,0,0,0,0,0,50.99,4.02
+28_023,Chengdu,Cultural Attractions,Money,30Aug2019,0,100,100,1,smaller than 40,1,1,1,,1,0,5,5,0,0,1,0,0,Wang Lei,1,1,smaller than 40,1,1,1,2,1,1,0,6,4,09Sep2019,3 or more,6,0,0,0,0,0,0,0,0,50.99,4.02
+28_024,Chengdu,Postal Office,No Money,30Aug2019,0,100,100,0,40+,1,1,1,,0,0,6,5,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,09Sep2019,2,0,0,0,0,0,0,,0,0,50.99,4.02
+28_025,Chengdu,Postal Office,Money,30Aug2019,0,100,0,1,40+,1,1,0,,0,0,5,3,0,0,0,0,1,Chang Wei,0,,,,,,,1,0,,,,09Sep2019,9,3,6,0,0,0,0,1,0,0,50.99,4.02
+28_026,Chengdu,Bank,No Money,30Aug2019,100,100,100,0,smaller than 40,0,1,1,1,1,1,6,5,0,1,0,0,0,Wang Lei,1,0,smaller than 40,,,1,9,1,0,,6,0,09Sep2019,1,0,6,0,0,0,0,,0,0,50.99,4.02
+28_027,Chengdu,Postal Office,Money,30Aug2019,0,100,100,0,smaller than 40,1,1,1,,,0,5,5,0,0,0,0,1,Li Qiang,1,0,smaller than 40,1,1,1,2,1,0,0,6,3,09Sep2019,9,3,6,0,0,0,0,0,0,0,50.99,4.02
+28_028,Chengdu,Public Place,No Money,30Aug2019,0,0,0,0,smaller than 40,1,1,1,,1,0,6,6,0,0,0,1,0,Li Qiang,0,,,,,,,1,0,,,,09Sep2019,2,2,6,0,1,1,1,,1,0,50.99,4.02
+28_029,Chengdu,Bank,No Money,30Aug2019,100,100,100,1,smaller than 40,1,1,1,1,1,0,5,6,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,09Sep2019,3 or more,0,6,0,0,0,0,,0,0,50.99,4.02
+28_030,Chengdu,Cultural Attractions,Money,30Aug2019,0,100,100,1,smaller than 40,1,0,1,,0,0,6,2,0,0,1,0,0,Wang Lei,1,1,smaller than 40,1,0,1,1,1,0,0,6,0,09Sep2019,1,3,0,0,0,0,0,0,0,0,50.99,4.02
+28_031,Chengdu,Postal Office,No Money,02Sep2019,0,100,100,1,smaller than 40,0,0,1,1,1,0,6,4,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,09Sep2019,1,0,6,0,0,0,0,,0,0,50.99,4.02
+28₋032,Chengdu,Postal Office,Money,02Sep2019,0,100,0,1,smaller than 40,0,1,0,,0,0,6,5,0,0,0,0,1,Wang Lei,1,1,40+,0,1,0,2,1,0,0,6,0,09Sep2019,,,,,0,1,1,0,0,0,50.99,4.02
+28₋033,Chengdu,Hotel,Money,02Sep2019,0,100,100,1,smaller than 40,1,1,1,1,1,0,6,5,1,0,0,0,0,Chang Wei,0,,,,,,,1,0,,,,09Sep2019,2,6,6,0,0,0,0,0,0,0,50.99,4.02
+28₋034,Chengdu,Cultural Attractions,No Money,02Sep2019,0,100,100,1,smaller than 40,1,1,1,1,,1,6,6,0,0,1,0,0,Chang Wei,1,1,40+,1,1,1,3 or more,1,0,1,6,0,09Sep2019,2,5,6,0,0,0,0,,0,0,50.99,4.02
+28₋035,Chengdu,Bank,Money,02Sep2019,100,100,100,1,smaller than 40,1,1,1,1,1,1,6,6,0,1,0,0,0,Wang Lei,0,,,,,,,1,0,,,,09Sep2019,1,,,0,0,0,0,0,0,0,50.99,4.02
+28₋036,Chengdu,Hotel,No Money,02Sep2019,100,100,100,0,smaller than 40,1,0,0,,,0,6,2,1,0,0,0,0,Li Qiang,1,0,smaller than 40,1,0,0,1,1,0,0,6,0,09Sep2019,3 or more,3,0,0,0,0,0,,0,0,50.99,4.02
+28₋037,Chengdu,Public Place,Money,02Sep2019,100,100,100,1,smaller than 40,1,1,0,,,1,6,6,0,0,0,1,0,Wang Lei,1,1,40+,,0,0,9,1,0,1,6,0,09Sep2019,3 or more,0,5,0,0,0,0,0,0,0,50.99,4.02
+28₋038,Chengdu,Hotel,No Money,02Sep2019,0,100,0,1,smaller than 40,1,1,1,1,,1,6,4,1,0,0,0,0,Chang Wei,0,,,,,,,1,0,,,,09Sep2019,2,0,6,0,0,1,0,,0,0,50.99,4.02
+28₋039,Chengdu,Cultural Attractions,No Money,02Sep2019,100,100,100,0,smaller than 40,0,0,1,,0,0,4,5,0,0,1,0,0,Li Qiang,1,0,smaller than 40,1,0,1,1,1,0,0,6,1,09Sep2019,1,0,0,0,0,0,0,,0,0,50.99,4.02
+28₋040,Chengdu,Hotel,Money,02Sep2019,0,100,100,0,smaller than 40,1,0,1,1,,0,5,5,1,0,0,0,0,Chang Wei,0,,,,,,,1,0,,,,09Sep2019,2,,6,0,0,0,0,0,0,0,50.99,4.02
+28₋041,Chengdu,Bank,No Money,02Sep2019,0,100,100,1,40+,0,0,1,1,,0,6,6,0,1,0,0,0,Li Qiang,1,1,40+,1,0,1,1,1,0,0,6,6,09Sep2019,2,3,6,0,0,0,0,,0,0,50.99,4.02
+28₋042,Chengdu,Cultural Attractions,Money,02Sep2019,100,100,100,0,smaller than 40,1,0,1,,0,0,0,3,0,0,1,0,0,Wang Lei,0,,,,,,,0,0,,,,09Sep2019,1,0,6,0,0,0,0,0,0,0,50.99,4.02
+28₋043,Chengdu,Cultural Attractions,Money,04Sep2019,0,100,100,0,smaller than 40,1,1,1,,,0,6,6,0,0,1,0,0,Chang Wei,1,0,smaller than 40,1,1,1,2,1,0,0,6,6,11Sep2019,9,0,6,0,0,0,0,0,0,0,50.99,4.02
+28₋044,Chengdu,Hotel,No Money,04Sep2019,0,100,100,0,40+,1,0,0,,0,0,6,3,1,0,0,0,0,Wang Lei,0,,,,,,,1,0,,,,11Sep2019,2,3,6,0,0,0,0,,0,0,50.99,4.02
+28₋045,Chengdu,Public Place,No Money,04Sep2019,0,100,100,0,smaller than 40,1,1,1,1,1,1,6,4,0,0,0,1,0,Li Qiang,0,,,,,,,1,0,,,,11Sep2019,2,0,6,1,0,0,0,,0,0,50.99,4.02
+28₋046,Chengdu,Hotel,Money,04Sep2019,100,100,100,0,smaller than 40,1,1,1,,1,0,6,4,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,1,1,3 or more,1,0,0,6,3,11Sep2019,3 or more,,,0,0,0,0,0,0,0,50.99,4.02
+28₋047,Chengdu,Cultural Attractions,Money,04Sep2019,100,100,100,0,smaller than 40,1,1,1,,0,1,6,4,0,0,1,0,0,Li Qiang,1,0,smaller than 40,1,1,0,2,1,0,1,6,1,11Sep2019,2,2,6,0,0,0,0,0,0,0,50.99,4.02
+28₋048,Chengdu,Public Place,No Money,04Sep2019,0,100,100,1,smaller than 40,1,1,1,1,0,0,6,2,0,0,0,1,0,Chang Wei,0,,,,,,,1,0,,,,11Sep2019,9,0,0,0,0,0,0,,0,0,50.99,4.02
+571_001,Hangzhou,Bank,No Money,29Aug2019,100,100,100,0,smaller than 40,1,1,1,1,1,0,2,1,0,1,0,0,0,Li Qiang,1,0,smaller than 40,1,0,0,2,1,0,0,4,0,05Sep2019,3 or more,0,6,0,0,0,0,,0,0,83.13,4.45
+571_002,Hangzhou,Bank,No Money,29Aug2019,100,100,100,0,smaller than 40,0,1,1,1,1,0,3,2,0,1,0,0,0,Li Qiang,1,0,smaller than 40,0,1,0,1,1,0,0,5,1,05Sep2019,1,4,6,0,0,0,0,,0,0,83.13,4.45
+571_003,Hangzhou,Bank,No Money,29Aug2019,0,100,100,1,smaller than 40,0,1,1,1,1,0,2,1,0,1,0,0,0,Wang Lei,0,,,,,,,1,0,,,,05Sep2019,3 or more,5,5,0,0,0,0,,0,0,83.13,4.45
+571_004,Hangzhou,Bank,Money,29Aug2019,100,100,100,1,smaller than 40,,1,1,1,1,0,3,1,0,1,0,0,0,Chang Wei,1,1,smaller than 40,0,1,0,2,1,0,1,5,1,05Sep2019,2,1,1,0,0,0,0,0,0,0,83.13,4.45
+571_005,Hangzhou,Bank,Money,29Aug2019,100,100,0,1,smaller than 40,0,1,1,1,1,0,4,2,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,05Sep2019,1,6,6,0,0,1,0,0,0,0,83.13,4.45
+571_006,Hangzhou,Bank,No Money,29Aug2019,100,100,100,0,40+,0,1,1,1,1,0,2,1,0,1,0,0,0,Li Qiang,1,0,smaller than 40,0,1,0,3 or more,1,0,0,4,1,05Sep2019,2,3,6,0,0,0,0,,0,0,83.13,4.45
+571_007,Hangzhou,Bank,No Money,29Aug2019,0,100,100,1,smaller than 40,,1,1,1,1,1,4,0,0,1,0,0,0,Wang Lei,0,,,,,,,1,0,,,,05Sep2019,,,,,0,0,0,,0,0,83.13,4.45
+571_008,Hangzhou,Bank,Money,29Aug2019,100,100,0,0,smaller than 40,0,1,1,1,1,0,2,5,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,05Sep2019,2,3,6,0,0,0,0,1,0,0,83.13,4.45
+571_009,Hangzhou,Cultural Attractions,Money,29Aug2019,100,100,100,0,40+,0,0,0,,0,0,1,2,0,0,1,0,0,Wang Lei,1,0,40+,0,0,0,2,1,0,0,3,1,05Sep2019,3 or more,0,0,0,0,0,0,0,0,0,83.13,4.45
+571_010,Hangzhou,Cultural Attractions,No Money,29Aug2019,0,100,100,1,40+,0,0,0,1,0,0,1,1,0,0,1,0,0,Chang Wei,1,1,40+,0,0,0,1,1,0,0,3,0,05Sep2019,2,0,0,0,0,0,0,,0,0,83.13,4.45
+571_011,Hangzhou,Cultural Attractions,Money,29Aug2019,100,100,100,1,40+,0,1,0,1,0,0,1,5,0,0,1,0,0,Chang Wei,0,,,,,,,1,0,,,,05Sep2019,1,0,0,0,0,0,0,0,0,0,83.13,4.45
+571_012,Hangzhou,Cultural Attractions,Money,29Aug2019,0,100,0,0,40+,,0,0,1,0,0,1,0,0,0,1,0,0,Wang Lei,1,0,40+,0,0,0,1,1,0,0,3,0,05Sep2019,1,5,5,0,0,0,0,1,0,0,83.13,4.45
+571_013,Hangzhou,Cultural Attractions,No Money,30Aug2019,0,100,100,1,40+,0,1,1,,1,0,5,1,0,0,1,0,0,Chang Wei,0,,,,,,,1,0,,,,06Sep2019,3 or more,0,0,0,0,0,0,,0,0,83.13,4.45
+571_014,Hangzhou,Cultural Attractions,Money,30Aug2019,0,100,0,0,40+,0,1,1,,0,0,4,1,0,0,1,0,0,Chang Wei,1,0,40+,0,0,0,2,1,0,0,4,1,06Sep2019,3 or more,0,0,0,1,0,0,0,0,0,83.13,4.45
+571_015,Hangzhou,Cultural Attractions,No Money,30Aug2019,0,100,100,1,smaller than 40,1,0,0,,0,0,2,1,0,0,1,0,0,Li Qiang,0,,,,,,,1,0,,,,06Sep2019,3 or more,3,3,0,0,0,0,,0,0,83.13,4.45
+571_016,Hangzhou,Cultural Attractions,Money,30Aug2019,0,100,100,1,smaller than 40,1,1,1,,0,0,3,1,0,0,1,0,0,Wang Lei,1,1,smaller than 40,1,0,0,1,1,0,0,4,0,06Sep2019,1,0,0,0,0,0,0,0,0,0,83.13,4.45
+571_017,Hangzhou,Hotel,No Money,30Aug2019,0,0,0,0,smaller than 40,1,1,1,,0,0,4,6,1,0,0,0,0,Li Qiang,0,,,,,,,1,0,,,,06Sep2019,9,0,5,0,1,1,1,,1,0,83.13,4.45
+571_018,Hangzhou,Hotel,Money,30Aug2019,100,100,100,0,smaller than 40,1,1,1,,1,0,6,6,1,0,0,0,0,Chang Wei,1,0,smaller than 40,1,1,0,2,1,0,0,4,2,06Sep2019,1,5,6,0,0,0,0,0,0,0,83.13,4.45
+571_019,Hangzhou,Hotel,Money,30Aug2019,100,100,100,0,smaller than 40,1,1,1,,,0,3,5,1,0,0,0,0,Chang Wei,1,0,smaller than 40,1,1,0,1,1,0,1,6,5,06Sep2019,3 or more,0,0,0,0,0,0,0,0,0,83.13,4.45
+571_020,Hangzhou,Hotel,No Money,30Aug2019,0,100,100,0,smaller than 40,1,1,1,,,0,4,6,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,0,1,1,1,0,0,5,6,06Sep2019,2,1,5,0,0,0,0,,0,0,83.13,4.45
+571_021,Hangzhou,Hotel,No Money,30Aug2019,0,100,100,1,smaller than 40,1,1,0,,0,0,6,1,1,0,0,0,0,Wang Lei,1,1,smaller than 40,1,1,0,3 or more,1,0,0,5,3,06Sep2019,9,2,5,1,0,0,0,,0,0,83.13,4.45
+571_022,Hangzhou,Hotel,Money,30Aug2019,0,100,0,1,smaller than 40,1,1,1,,0,1,6,3,1,0,0,0,0,Li Qiang,1,1,smaller than 40,1,1,1,2,1,0,0,4,4,06Sep2019,2,3,3,0,0,0,0,1,0,0,83.13,4.45
+571_023,Hangzhou,Hotel,Money,30Aug2019,0,100,100,0,smaller than 40,1,1,0,1,0,0,6,2,1,0,0,0,0,Li Qiang,1,0,smaller than 40,1,1,0,3 or more,1,0,0,4,0,06Sep2019,9,4,6,0,0,0,0,0,0,0,83.13,4.45
+571_024,Hangzhou,Postal Office,No Money,30Aug2019,0,100,100,0,40+,1,1,0,,0,0,3,0,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,06Sep2019,1,0,6,0,0,0,0,,0,0,83.13,4.45
+571_025,Hangzhou,Postal Office,No Money,29Aug2019,0,0,0,0,smaller than 40,1,1,0,,1,0,2,1,0,0,0,0,1,Chang Wei,1,0,smaller than 40,1,0,0,3 or more,1,0,0,4,0,05Sep2019,9,3,6,0,1,1,1,,1,0,83.13,4.45
+571_026,Hangzhou,Postal Office,No Money,30Aug2019,0,0,0,0,smaller than 40,1,1,1,1,0,0,2,2,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,06Sep2019,9,1,2,0,1,1,1,,1,0,83.13,4.45
+571_027,Hangzhou,Postal Office,Money,30Aug2019,100,100,100,0,smaller than 40,0,1,1,1,0,0,1,0,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,06Sep2019,3 or more,3,6,0,0,0,0,0,0,0,83.13,4.45
+571_028,Hangzhou,Postal Office,Money,30Aug2019,0,100,100,0,smaller than 40,1,1,1,1,0,0,1,2,0,0,0,0,1,Li Qiang,1,0,40+,1,1,1,2,1,0,0,4,2,06Sep2019,2,6,6,1,0,0,0,0,0,0,83.13,4.45
+571_029,Hangzhou,Postal Office,Money,30Aug2019,0,100,100,0,40+,1,1,1,1,0,0,2,2,0,0,0,0,1,Chang Wei,1,0,40+,1,1,0,2,1,0,0,4,2,06Sep2019,3 or more,3,6,0,0,0,0,0,0,0,83.13,4.45
+571_030,Hangzhou,Postal Office,No Money,30Aug2019,100,100,100,0,smaller than 40,1,1,1,1,0,0,1,1,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,06Sep2019,3 or more,3,3,0,0,0,0,,0,0,83.13,4.45
+571_031,Hangzhou,Public Place,No Money,30Aug2019,100,100,100,0,smaller than 40,1,1,1,1,1,0,4,1,0,0,0,1,0,Chang Wei,0,,,,,,,1,0,,,,06Sep2019,3 or more,3,5,1,0,0,0,,0,0,83.13,4.45
+571_032,Hangzhou,Public Place,Money,30Aug2019,0,100,100,0,smaller than 40,0,1,0,0,0,0,0,1,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,06Sep2019,3 or more,4,4,0,0,0,0,0,0,0,83.13,4.45
+571_033,Hangzhou,Public Place,No Money,30Aug2019,0,0,0,0,smaller than 40,1,1,1,,1,0,1,1,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,06Sep2019,9,0,6,0,1,1,1,,1,0,83.13,4.45
+571_034,Hangzhou,Public Place,Money,30Aug2019,0,100,0,0,40+,0,1,0,,0,0,4,4,0,0,0,1,0,Li Qiang,0,,,,,,,1,0,,,,06Sep2019,2,6,6,0,0,0,0,1,0,0,83.13,4.45
+571_035,Hangzhou,Public Place,No Money,30Aug2019,0,100,100,0,smaller than 40,0,1,1,1,1,0,5,4,0,0,0,1,0,Wang Lei,1,0,smaller than 40,0,0,1,2,1,1,0,4,3,06Sep2019,9,0,1,0,0,0,0,,0,0,83.13,4.45
+571_036,Hangzhou,Public Place,No Money,30Aug2019,0,100,100,1,smaller than 40,1,1,1,1,1,0,5,4,0,0,0,1,0,Li Qiang,0,,,,,,,,0,,,,06Sep2019,9,3,6,0,0,0,0,,0,0,83.13,4.45
+571_037,Hangzhou,Public Place,Money,30Aug2019,0,0,0,1,smaller than 40,1,0,0,,0,0,6,3,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,06Sep2019,9,0,0,0,1,1,1,1,1,0,83.13,4.45
+571_038,Hangzhou,Public Place,Money,30Aug2019,0,100,0,1,40+,1,1,1,1,1,0,4,1,0,0,0,1,0,Chang Wei,0,,,,,,,1,0,,,,06Sep2019,9,6,6,0,1,0,0,0,0,0,83.13,4.45
+21_001,Shanghai,Hotel,Money,21Aug2019,100,100,100,1,smaller than 40,1,0,1,,0,0,5,1,1,0,0,0,0,Chang Wei,0,,,,,,,1,0,,,,28Aug2019,2,6,6,0,0,0,0,0,0,0,87.55,4.26
+21_002,Shanghai,Hotel,No Money,22Aug2019,0,100,100,0,smaller than 40,1,1,1,,1,0,3,1,1,0,0,0,0,Chang Wei,1,0,smaller than 40,1,0,0,1,1,0,0,6,0,29Aug2019,1,0,,0,0,0,0,,0,0,87.55,4.26
+21_003,Shanghai,Hotel,Money,21Aug2019,0,0,0,0,smaller than 40,1,1,1,,0,0,3,4,1,0,0,0,0,Wang Lei,0,,,,,,,1,0,,,,28Aug2019,9,6,6,0,1,1,1,1,1,0,87.55,4.26
+21_004,Shanghai,Hotel,Money,21Aug2019,100,100,100,0,40+,1,1,1,,0,0,2,2,1,0,0,0,0,Li Qiang,1,0,smaller than 40,1,1,0,1,1,0,0,4,3,28Aug2019,1,,,0,0,0,0,0,0,0,87.55,4.26
+21_005,Shanghai,Hotel,No Money,21Aug2019,0,0,0,0,smaller than 40,1,1,1,,,0,3,2,1,0,0,0,0,Chang Wei,1,0,smaller than 40,1,0,0,2,1,0,0,3,2,28Aug2019,9,3,6,0,1,1,1,,1,0,87.55,4.26
+21_006,Shanghai,Hotel,Money,21Aug2019,0,0,0,1,smaller than 40,1,1,1,,1,1,5,6,1,0,0,0,0,Chang Wei,1,1,smaller than 40,1,1,0,2,1,1,1,6,0,28Aug2019,9,,6,0,1,1,1,1,1,0,87.55,4.26
+21_007,Shanghai,Hotel,Money,21Aug2019,0,0,0,1,smaller than 40,0,1,1,1,1,1,6,1,1,0,0,0,0,Chang Wei,0,,,,,,,1,0,,,,28Aug2019,9,,6,0,1,1,1,1,1,0,87.55,4.26
+21_008,Shanghai,Hotel,Money,21Aug2019,100,100,100,0,smaller than 40,1,0,1,1,0,0,4,5,1,0,0,0,0,Li Qiang,1,0,smaller than 40,1,0,1,2,1,0,0,4,5,28Aug2019,1,,,0,0,0,0,0,0,0,87.55,4.26
+21_009,Shanghai,Hotel,No Money,22Aug2019,0,100,100,1,smaller than 40,1,1,1,1,1,1,5,1,1,0,0,0,0,Li Qiang,1,1,smaller than 40,0,1,0,2,1,0,1,5,2,29Aug2019,3 or more,,,0,0,0,0,,0,0,87.55,4.26
+21_010,Shanghai,Hotel,Money,21Aug2019,100,100,0,1,smaller than 40,1,0,0,,0,1,5,3,1,0,0,0,0,Li Qiang,1,1,smaller than 40,1,0,0,2,1,0,1,5,0,28Aug2019,2,4,6,0,1,0,0,0,0,0,87.55,4.26
+21_011,Shanghai,Hotel,Money,21Aug2019,0,100,100,1,smaller than 40,1,0,1,,,0,5,4,1,0,0,0,0,Wang Lei,1,1,smaller than 40,1,0,1,2,1,0,0,5,3,28Aug2019,3 or more,4,2,0,0,0,0,0,0,0,87.55,4.26
+21_012,Shanghai,Hotel,No Money,21Aug2019,100,100,100,0,smaller than 40,1,1,1,,0,0,5,5,1,0,0,0,0,Li Qiang,0,,,,,,,1,0,,,,28Aug2019,1,2,,0,0,0,0,,0,0,87.55,4.26
+21_013,Shanghai,Public Place,Money,20Aug2019,0,0,0,1,smaller than 40,1,1,1,1,1,0,6,3,0,0,0,1,0,Li Qiang,0,,,,,,,1,0,,,,28Aug2019,,,,,1,1,1,1,1,1,87.55,4.26
+21_014,Shanghai,Public Place,No Money,23Aug2019,0,0,0,0,40+,1,1,1,1,1,0,1,1,0,0,0,1,0,Chang Wei,1,0,40+,1,,0,2,1,0,0,4,1,30Aug2019,,,,,1,1,1,,1,0,87.55,4.26
+21_015,Shanghai,Public Place,Money,20Aug2019,0,100,100,1,smaller than 40,,0,1,,1,0,4,1,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,28Aug2019,1,0,6,0,0,0,0,0,0,0,87.55,4.26
+21_016,Shanghai,Public Place,Money,20Aug2019,100,100,100,0,40+,,0,1,,0,0,2,2,0,0,0,1,0,Chang Wei,1,0,40+,1,0,1,3 or more,1,0,0,4,2,28Aug2019,2,6,6,0,0,0,0,0,0,0,87.55,4.26
+21_017,Shanghai,Public Place,Money,20Aug2019,0,100,100,0,40+,1,1,1,,0,0,2,3,0,0,0,1,0,Chang Wei,0,,,,,,,1,0,,,,28Aug2019,2,6,6,0,0,0,0,0,0,0,87.55,4.26
+21_018,Shanghai,Public Place,No Money,20Aug2019,0,0,0,0,40+,1,1,1,1,1,0,2,2,0,0,0,1,0,Li Qiang,1,0,40+,0,1,0,3 or more,1,0,0,3,0,28Aug2019,2,0,6,0,1,1,1,,1,0,87.55,4.26
+21_019,Shanghai,Public Place,Money,23Aug2019,100,100,100,0,smaller than 40,1,1,1,1,1,1,5,4,0,0,0,1,0,Li Qiang,1,0,smaller than 40,1,1,1,3 or more,1,0,,5,5,30Aug2019,3 or more,0,0,0,0,0,0,0,0,0,87.55,4.26
+21_020,Shanghai,Public Place,Money,22Aug2019,100,100,100,0,40+,1,1,1,1,1,0,3,2,0,0,0,1,0,Chang Wei,0,,,,,,,1,0,,,,29Aug2019,1,,6,0,0,0,0,0,0,0,87.55,4.26
+21_021,Shanghai,Public Place,No Money,23Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,0,5,4,0,0,0,1,0,Wang Lei,1,0,smaller than 40,1,1,1,3 or more,1,0,0,4,1,30Aug2019,3 or more,0,6,0,0,0,0,,0,0,87.55,4.26
+21_023,Shanghai,Public Place,Money,24Aug2019,0,0,0,0,smaller than 40,1,0,1,1,1,1,6,5,0,0,0,1,0,Chang Wei,1,0,smaller than 40,1,0,1,1,1,0,1,5,3,31Aug2019,,,,,1,1,1,1,1,0,87.55,4.26
+21_024,Shanghai,Public Place,No Money,23Aug2019,0,100,100,1,smaller than 40,1,1,1,1,1,0,3,5,0,0,0,1,0,Chang Wei,1,1,smaller than 40,,1,0,2,1,1,,4,0,30Aug2019,1,0,0,0,0,0,0,,0,0,87.55,4.26
+21_025,Shanghai,Public Place,No Money,23Aug2019,0,0,0,1,smaller than 40,1,1,1,1,1,0,1,1,0,0,0,1,0,Li Qiang,0,,,,,,,1,0,,,,30Aug2019,,,,,1,1,1,,1,0,87.55,4.26
+21_026,Shanghai,Cultural Attractions,No Money,20Aug2019,0,0,0,1,40+,1,1,0,,1,0,2,1,0,0,1,0,0,Li Qiang,1,1,smaller than 40,1,1,0,2,1,0,0,4,1,28Aug2019,3 or more,0,6,0,1,1,1,,1,0,87.55,4.26
+21_027,Shanghai,Cultural Attractions,No Money,20Aug2019,100,100,100,1,smaller than 40,1,1,1,,1,0,3,2,0,0,1,0,0,Chang Wei,0,,,,,,,1,0,,,,28Aug2019,3 or more,6,6,0,0,0,0,,0,0,87.55,4.26
+21_028,Shanghai,Cultural Attractions,Money,20Aug2019,0,100,100,0,40+,1,0,0,,0,0,2,2,0,0,1,0,0,Chang Wei,0,,,,,,,1,0,,,,28Aug2019,2,,6,0,0,0,0,0,0,0,87.55,4.26
+21_029,Shanghai,Cultural Attractions,Money,20Aug2019,0,0,0,0,40+,,0,,,0,0,0,2,0,0,1,0,0,Wang Lei,1,0,40+,1,0,0,1,1,0,0,3,0,28Aug2019,3 or more,0,4,0,1,1,1,1,1,0,87.55,4.26
+21_030,Shanghai,Cultural Attractions,No Money,21Aug2019,100,0,0,1,40+,0,1,1,,1,0,1,1,0,0,1,0,0,Li Qiang,0,,,,,,,1,0,,,,28Aug2019,2,,6,0,1,1,1,,1,0,87.55,4.26
+21_031,Shanghai,Cultural Attractions,Money,22Aug2019,0,0,0,0,40+,1,0,1,,0,0,3,2,0,0,1,0,0,Wang Lei,0,,,,,,,1,0,,,,29Aug2019,9,6,6,0,1,1,1,1,1,0,87.55,4.26
+21_032,Shanghai,Cultural Attractions,Money,22Aug2019,0,100,0,0,smaller than 40,1,1,1,1,1,0,3,1,0,0,1,0,0,Li Qiang,1,0,smaller than 40,1,1,0,2,1,0,0,5,0,29Aug2019,3 or more,,3,0,1,0,0,0,0,0,87.55,4.26
+21_033,Shanghai,Cultural Attractions,Money,23Aug2019,0,100,0,1,smaller than 40,1,1,0,,0,0,3,1,0,0,1,0,0,Li Qiang,0,,,,,,,1,0,,,,30Aug2019,3 or more,,,0,0,0,0,1,0,0,87.55,4.26
+21_034,Shanghai,Cultural Attractions,Money,23Aug2019,0,0,0,0,40+,1,0,1,,0,0,3,1,0,0,1,0,0,Wang Lei,1,0,40+,0,1,0,3 or more,1,0,0,4,0,30Aug2019,9,4,4,0,1,1,1,1,1,0,87.55,4.26
+21_035,Shanghai,Cultural Attractions,No Money,23Aug2019,0,100,100,1,smaller than 40,1,1,1,1,0,0,3,3,0,0,1,0,0,Wang Lei,0,,,,,,,1,0,,,,30Aug2019,3 or more,0,6,0,0,0,0,,0,0,87.55,4.26
+21_036,Shanghai,Cultural Attractions,Money,23Aug2019,0,0,0,0,40+,1,1,1,,1,0,3,1,0,0,1,0,0,Chang Wei,1,0,40+,1,1,0,1,1,0,0,4,3,30Aug2019,1,6,6,0,0,1,1,1,1,0,87.55,4.26
+21_037,Shanghai,Cultural Attractions,Money,23Aug2019,100,100,100,0,smaller than 40,1,1,1,,1,1,6,1,0,0,1,0,0,Li Qiang,0,,,,,,,,0,,,,30Aug2019,2,3,3,0,0,0,0,0,0,0,87.55,4.26
+21_038,Shanghai,Cultural Attractions,Money,23Aug2019,100,100,100,1,40+,1,1,1,1,1,0,6,1,0,0,1,0,0,Chang Wei,0,,,,,,,1,0,,,,30Aug2019,3 or more,0,6,0,0,0,0,0,0,0,87.55,4.26
+21_039,Shanghai,Cultural Attractions,No Money,23Aug2019,100,100,100,0,smaller than 40,1,1,1,,1,0,2,1,0,0,1,0,0,Li Qiang,1,0,smaller than 40,1,1,0,3 or more,1,0,0,4,2,30Aug2019,3 or more,,,0,0,0,0,,0,0,87.55,4.26
+21_040,Shanghai,Bank,No Money,21Aug2019,0,100,100,1,smaller than 40,0,1,0,1,1,0,2,1,0,1,0,0,0,Chang Wei,1,1,smaller than 40,0,1,1,1,1,0,1,4,2,28Aug2019,1,6,6,0,0,0,0,,0,0,87.55,4.26
+21_041,Shanghai,Bank,No Money,21Aug2019,0,0,0,0,smaller than 40,1,1,1,1,1,0,2,2,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,28Aug2019,9,6,6,0,1,1,1,,1,0,87.55,4.26
+21_042,Shanghai,Bank,Money,21Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,0,3,2,0,1,0,0,0,Wang Lei,0,,,,,,,1,0,,,,28Aug2019,3 or more,6,6,0,0,0,0,0,0,0,87.55,4.26
+21_043,Shanghai,Bank,No Money,21Aug2019,0,0,0,1,40+,0,1,1,1,1,0,3,4,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,28Aug2019,9,2,2,0,1,1,1,,1,0,87.55,4.26
+21_044,Shanghai,Bank,No Money,22Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,0,3,1,0,1,0,0,0,Wang Lei,1,0,smaller than 40,0,1,0,2,1,0,0,4,1,29Aug2019,2,,4,0,0,0,0,,0,0,87.55,4.26
+21_045,Shanghai,Bank,Money,22Aug2019,100,100,100,1,smaller than 40,1,1,1,1,1,0,4,5,0,1,0,0,0,Chang Wei,1,1,40+,1,1,1,1,1,0,0,5,5,29Aug2019,3 or more,6,6,0,0,0,0,0,0,0,87.55,4.26
+21_046,Shanghai,Bank,Money,22Aug2019,0,100,100,0,40+,0,1,1,1,1,0,3,1,0,1,0,0,0,Wang Lei,1,0,40+,0,1,1,3 or more,1,0,0,5,0,29Aug2019,3 or more,4,4,0,0,0,0,0,0,0,87.55,4.26
+21_047,Shanghai,Bank,Money,22Aug2019,0,100,100,0,40+,0,1,0,1,1,0,3,1,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,29Aug2019,1,,,0,0,0,0,0,0,0,87.55,4.26
+21_048,Shanghai,Bank,Money,22Aug2019,100,100,100,0,smaller than 40,0,1,1,1,1,0,3,5,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,29Aug2019,2,,6,0,0,0,0,0,0,0,87.55,4.26
+21_049,Shanghai,Bank,No Money,22Aug2019,0,100,100,1,smaller than 40,1,1,1,1,1,0,3,1,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,29Aug2019,1,0,,1,0,0,0,,0,0,87.55,4.26
+21_050,Shanghai,Bank,No Money,22Aug2019,100,100,0,0,smaller than 40,1,0,1,1,1,1,1,2,0,1,0,0,0,Wang Lei,1,0,smaller than 40,1,1,1,1,1,0,,4,3,29Aug2019,2,4,6,0,1,0,0,,0,0,87.55,4.26
+21_051,Shanghai,Bank,Money,22Aug2019,100,100,100,0,smaller than 40,0,1,1,1,1,0,2,2,0,1,0,0,0,Wang Lei,1,0,smaller than 40,0,0,0,3 or more,1,1,0,5,0,29Aug2019,3 or more,,4,0,0,0,0,0,0,0,87.55,4.26
+21_052,Shanghai,Bank,No Money,22Aug2019,0,100,100,1,smaller than 40,,1,1,1,1,0,3,2,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,29Aug2019,1,0,6,0,0,0,0,,0,0,87.55,4.26
+21_053,Shanghai,Bank,No Money,22Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,0,2,2,0,1,0,0,0,Chang Wei,1,0,smaller than 40,1,1,0,2,1,0,1,6,1,29Aug2019,3 or more,,,0,0,0,0,,0,0,87.55,4.26
+21_054,Shanghai,Postal Office,Money,20Aug2019,100,100,100,0,smaller than 40,1,1,1,1,1,0,5,3,0,0,0,0,1,Chang Wei,0,,,,,,,1,0,,,,28Aug2019,3 or more,4,5,0,0,0,0,0,0,0,87.55,4.26
+21_055,Shanghai,Postal Office,No Money,20Aug2019,0,100,100,1,40+,1,1,0,1,1,0,1,1,0,0,0,0,1,Wang Lei,1,1,smaller than 40,1,1,0,3 or more,1,0,0,4,0,28Aug2019,3 or more,0,6,0,0,0,0,,0,0,87.55,4.26
+21_056,Shanghai,Postal Office,No Money,20Aug2019,0,0,0,1,smaller than 40,1,1,0,,0,1,4,1,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,28Aug2019,9,6,6,0,1,1,1,,1,0,87.55,4.26
+21_057,Shanghai,Postal Office,No Money,21Aug2019,0,0,0,1,smaller than 40,1,1,1,1,1,1,3,5,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,28Aug2019,2,2,6,0,1,1,1,,1,0,87.55,4.26
+21_058,Shanghai,Postal Office,Money,21Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,0,1,5,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,28Aug2019,2,6,6,0,0,0,0,0,0,0,87.55,4.26
+21_059,Shanghai,Postal Office,Money,21Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,0,3,3,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,28Aug2019,3 or more,6,6,0,0,0,0,0,0,0,87.55,4.26
+21_060,Shanghai,Postal Office,No Money,23Aug2019,0,0,0,1,smaller than 40,1,1,1,,0,0,4,1,0,0,0,0,1,Wang Lei,1,1,smaller than 40,1,1,1,3 or more,1,0,0,5,3,30Aug2019,9,,,0,1,1,1,,1,0,87.55,4.26
+21_061,Shanghai,Postal Office,No Money,23Aug2019,0,100,100,1,smaller than 40,1,0,1,,0,0,6,6,0,0,0,0,1,Wang Lei,1,1,smaller than 40,1,0,1,1,1,0,0,5,5,30Aug2019,1,0,0,0,0,0,0,,0,0,87.55,4.26
+21_062,Shanghai,Postal Office,No Money,22Aug2019,0,100,100,1,40+,1,1,1,1,0,0,3,5,0,0,0,0,1,Chang Wei,1,1,smaller than 40,1,1,1,1,1,0,1,5,5,29Aug2019,1,,6,0,0,0,0,,0,0,87.55,4.26
+21_063,Shanghai,Postal Office,No Money,23Aug2019,0,0,0,1,smaller than 40,1,1,1,1,1,1,6,1,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,30Aug2019,9,0,0,0,1,1,1,,1,0,87.55,4.26
+21_064,Shanghai,Postal Office,No Money,23Aug2019,0,100,100,0,40+,1,1,0,,0,0,5,5,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,30Aug2019,3 or more,0,6,0,0,0,0,,0,0,87.55,4.26
+21_065,Shanghai,Postal Office,No Money,23Aug2019,0,0,0,0,smaller than 40,1,0,1,,0,1,6,5,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,30Aug2019,9,6,6,0,1,1,1,,1,0,87.55,4.26
+21_066,Shanghai,Postal Office,No Money,23Aug2019,0,0,0,1,smaller than 40,0,1,1,,,0,4,2,0,0,0,0,1,Wang Lei,1,1,smaller than 40,0,0,1,2,1,0,0,5,0,30Aug2019,1,3,6,0,1,1,1,,1,0,87.55,4.26
+29_001,Xi'an,Cultural Attractions,Money,30Aug2019,0,0,0,1,smaller than 40,1,1,1,1,0,1,6,4,0,0,1,0,0,Li Qiang,0,,,,,,,0,0,,,,06Sep2019,9,0,6,0,1,1,1,1,1,0,5.19,4.04
+29_002,Xi'an,Cultural Attractions,No Money,03Sep2019,0,100,100,1,smaller than 40,1,1,0,1,0,1,5,1,0,0,1,0,0,Wang Lei,1,1,smaller than 40,1,1,0,3 or more,1,0,,5,2,10Sep2019,3 or more,5,6,0,0,0,0,,0,0,5.19,4.04
+29_003,Xi'an,Cultural Attractions,No Money,30Aug2019,0,100,100,0,smaller than 40,1,1,0,0,1,1,6,0,0,0,1,0,0,Li Qiang,1,0,40+,0,1,1,2,1,0,,4,3,06Sep2019,2,6,6,0,0,0,0,,0,0,5.19,4.04
+29_004,Xi'an,Bank,No Money,30Aug2019,0,100,100,0,smaller than 40,0,0,1,1,1,1,5,1,0,1,0,0,0,Li Qiang,1,0,smaller than 40,0,0,1,1,1,0,,6,2,06Sep2019,2,,,,0,0,0,,0,0,5.19,4.04
+29_005,Xi'an,Postal Office,Money,30Aug2019,0,100,100,0,smaller than 40,0,1,1,1,0,0,0,1,0,0,0,0,1,Chang Wei,0,,,,,,,1,0,,,,06Sep2019,1,3,6,0,0,0,0,0,0,0,5.19,4.04
+29_006,Xi'an,Bank,Money,30Aug2019,0,0,0,1,smaller than 40,0,1,1,1,0,0,4,0,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,06Sep2019,,,,,1,1,1,1,1,1,5.19,4.04
+29_007,Xi'an,Bank,Money,30Aug2019,100,100,100,0,smaller than 40,1,1,1,1,0,0,4,1,0,1,0,0,0,Wang Lei,0,,,,,,,1,0,,,,06Sep2019,3 or more,4,5,0,0,0,0,0,0,0,5.19,4.04
+29_008,Xi'an,Hotel,No Money,30Aug2019,0,100,100,0,40+,1,1,1,1,0,0,2,0,1,0,0,0,0,Li Qiang,1,0,40+,,1,1,3 or more,1,0,0,6,1,06Sep2019,1,3,6,0,0,0,0,,0,0,5.19,4.04
+29_009,Xi'an,Hotel,No Money,30Aug2019,100,100,100,0,smaller than 40,1,1,1,1,0,0,5,0,1,0,0,0,0,Chang Wei,1,0,smaller than 40,1,1,0,3 or more,1,0,0,6,1,06Sep2019,3 or more,6,6,0,0,0,0,,0,0,5.19,4.04
+29_010,Xi'an,Bank,No Money,30Aug2019,100,100,100,0,smaller than 40,0,1,1,1,0,1,5,0,0,1,0,0,0,Chang Wei,1,0,smaller than 40,0,1,1,2,1,0,0,6,0,06Sep2019,3 or more,3,6,0,0,0,0,,0,0,5.19,4.04
+29_011,Xi'an,Public Place,Money,30Aug2019,0,100,100,1,smaller than 40,0,1,1,1,1,0,6,0,0,0,0,1,0,Li Qiang,0,,,,,,,1,0,,,,06Sep2019,1,5,5,0,0,0,0,0,0,0,5.19,4.04
+29_012,Xi'an,Public Place,Money,30Aug2019,100,0,0,0,smaller than 40,1,1,1,1,0,0,4,2,0,0,0,1,0,Chang Wei,0,,,,,,,1,0,,,,06Sep2019,9,0,3,0,1,1,1,1,1,0,5.19,4.04
+29_013,Xi'an,Public Place,No Money,30Aug2019,0,0,0,1,40+,0,1,1,1,1,0,3,3,0,0,0,1,0,Chang Wei,1,1,40+,0,1,1,2,1,0,0,3,1,06Sep2019,3 or more,3,6,0,1,1,1,,1,1,5.19,4.04
+29_014,Xi'an,Public Place,No Money,03Sep2019,100,100,100,0,smaller than 40,1,1,1,1,0,0,3,0,0,0,0,1,0,Li Qiang,1,0,smaller than 40,1,1,1,3 or more,1,0,0,5,0,10Sep2019,1,1,6,0,0,0,0,,0,0,5.19,4.04
+29_015,Xi'an,Postal Office,Money,03Sep2019,100,0,0,1,smaller than 40,1,0,0,1,0,0,5,0,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,17Sep2019,,,,,1,1,1,1,1,1,5.19,4.04
+29_016,Xi'an,Cultural Attractions,No Money,03Sep2019,0,100,100,1,smaller than 40,1,1,0,1,0,0,6,2,0,0,1,0,0,Wang Lei,1,1,smaller than 40,1,1,0,2,1,0,0,5,0,10Sep2019,2,3,6,0,0,0,0,,0,0,5.19,4.04
+29_017,Xi'an,Public Place,No Money,03Sep2019,100,100,100,0,smaller than 40,1,1,0,1,0,0,4,0,0,0,0,1,0,Wang Lei,1,0,smaller than 40,1,1,0,9,0,0,0,6,0,10Sep2019,1,2,6,0,0,0,0,,0,0,5.19,4.04
+29_018,Xi'an,Public Place,No Money,03Sep2019,0,0,0,0,smaller than 40,0,1,1,1,0,0,3,0,0,0,0,1,0,Li Qiang,1,0,smaller than 40,0,0,0,1,1,0,0,6,0,10Sep2019,9,6,6,0,1,1,1,,1,0,5.19,4.04
+29_019,Xi'an,Cultural Attractions,Money,03Sep2019,0,100,100,0,smaller than 40,0,1,1,1,0,1,3,0,0,0,1,0,0,Chang Wei,0,,,,,,,1,0,,,,10Sep2019,2,,6,0,0,0,0,0,0,0,5.19,4.04
+29_020,Xi'an,Hotel,No Money,03Sep2019,0,0,0,1,smaller than 40,1,0,0,1,0,0,4,0,1,0,0,0,0,Wang Lei,1,1,smaller than 40,1,0,0,1,1,0,0,6,2,10Sep2019,9,0,6,0,1,1,1,,1,0,5.19,4.04
+29_021,Xi'an,Cultural Attractions,No Money,03Sep2019,0,100,100,0,smaller than 40,1,0,0,1,0,0,4,0,0,0,1,0,0,Wang Lei,1,0,smaller than 40,1,0,0,1,1,0,1,6,0,10Sep2019,9,6,6,0,0,0,0,,0,0,5.19,4.04
+29_022,Xi'an,Cultural Attractions,Money,03Sep2019,100,100,100,0,smaller than 40,0,1,1,1,0,1,5,2,0,0,1,0,0,Wang Lei,0,,,,,,,1,0,,,,10Sep2019,3 or more,3,5,0,0,0,0,0,0,0,5.19,4.04
+29_023,Xi'an,Postal Office,Money,30Aug2019,100,100,100,0,smaller than 40,1,1,1,1,0,0,5,3,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,06Sep2019,1,,6,0,0,0,0,0,0,0,5.19,4.04
+29_024,Xi'an,Bank,Money,30Aug2019,0,100,0,1,smaller than 40,,0,1,1,0,0,6,0,0,1,0,0,0,Wang Lei,0,,,,,,,1,0,,,,06Sep2019,9,,6,0,0,1,0,1,0,0,5.19,4.04
+29_025,Xi'an,Postal Office,No Money,30Aug2019,0,100,100,1,40+,0,1,1,1,0,0,6,0,0,0,0,0,1,Li Qiang,1,1,40+,0,1,1,2,1,0,0,5,1,06Sep2019,3 or more,0,6,0,0,0,0,,0,0,5.19,4.04
+29_026,Xi'an,Postal Office,No Money,30Aug2019,100,100,100,1,smaller than 40,1,0,0,1,0,0,6,1,0,0,0,0,1,Chang Wei,1,1,smaller than 40,1,0,0,1,1,0,0,5,2,06Sep2019,1,0,6,0,0,0,0,,0,0,5.19,4.04
+29_027,Xi'an,Bank,Money,30Aug2019,0,0,0,1,40+,0,1,1,1,1,0,5,1,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,06Sep2019,9,,5,0,1,1,1,1,1,0,5.19,4.04
+29_028,Xi'an,Hotel,Money,30Aug2019,0,100,100,0,smaller than 40,1,1,1,1,0,0,6,1,1,0,0,0,0,Wang Lei,0,,,,,,,1,0,,,,06Sep2019,9,5,6,0,0,0,0,0,0,0,5.19,4.04
+29_029,Xi'an,Public Place,Money,30Aug2019,100,100,100,1,smaller than 40,1,0,0,1,1,0,5,1,0,0,0,1,0,Chang Wei,0,,,,,,,1,1,,,,06Sep2019,1,6,6,0,0,0,0,0,0,0,5.19,4.04
+29_030,Xi'an,Hotel,No Money,30Aug2019,100,100,100,1,smaller than 40,1,1,0,1,0,0,5,1,1,0,0,0,0,Wang Lei,1,1,smaller than 40,1,1,0,2,1,0,0,5,2,06Sep2019,,,,,0,0,0,,0,0,5.19,4.04
+29_031,Xi'an,Cultural Attractions,Money,30Aug2019,100,100,100,1,smaller than 40,1,1,0,1,0,1,4,0,0,0,1,0,0,Chang Wei,0,,,,,,,1,1,,,,06Sep2019,3 or more,5,6,0,0,0,0,0,0,0,5.19,4.04
+29_032,Xi'an,Public Place,Money,03Sep2019,100,100,100,1,smaller than 40,1,1,0,1,1,1,6,1,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,10Sep2019,1,5,5,0,0,0,0,0,0,0,5.19,4.04
+29_033,Xi'an,Postal Office,Money,03Sep2019,0,100,100,1,40+,1,1,1,1,0,0,6,1,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,10Sep2019,3 or more,,,,0,0,0,0,0,0,5.19,4.04
+29_034,Xi'an,Bank,Money,03Sep2019,100,100,100,0,smaller than 40,1,1,0,1,0,1,5,1,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,10Sep2019,2,0,0,0,0,0,0,0,0,0,5.19,4.04
+29_035,Xi'an,Hotel,No Money,03Sep2019,0,100,100,0,smaller than 40,1,1,0,1,0,0,6,1,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,1,0,2,1,0,0,5,4,10Sep2019,2,4,6,0,0,0,0,,0,0,5.19,4.04
+29_037,Xi'an,Postal Office,Money,03Sep2019,0,100,100,0,40+,1,1,0,1,0,0,6,0,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,10Sep2019,2,3,4,0,0,0,0,0,0,0,5.19,4.04
+29_038,Xi'an,Hotel,No Money,03Sep2019,0,100,100,1,smaller than 40,1,1,0,1,0,1,6,2,1,0,0,0,0,Chang Wei,1,1,smaller than 40,1,1,0,3 or more,1,0,,5,3,10Sep2019,3 or more,,6,0,0,0,0,,0,0,5.19,4.04
+29_041,Xi'an,Bank,No Money,29Aug2019,0,100,100,1,smaller than 40,0,1,1,1,1,1,5,0,0,1,0,0,0,Chang Wei,1,1,smaller than 40,0,1,1,1,1,1,0,6,3,06Sep2019,2,3,6,0,0,0,0,,0,0,5.19,4.04
+451_001,Harbin,Hotel,No Money,01Nov2019,0,100,100,1,smaller than 40,1,1,0,0,0,0,3,0,1,0,0,0,0,Chang Wei,0,,,,,,,1,0,,,,08Nov2019,9,4,6,0,0,0,0,,0,0,9.66,4.34
+451_002,Harbin,Bank,Money,06Nov2019,0,100,100,0,smaller than 40,0,1,1,1,1,1,5,0,0,1,0,0,0,Chang Wei,1,0,smaller than 40,0,1,0,3 or more,1,0,1,6,0,14Nov2019,2,0,6,0,0,0,0,0,0,0,9.66,4.34
+451_003,Harbin,Bank,Money,06Nov2019,0,100,100,1,smaller than 40,1,1,1,1,1,1,6,3,0,1,0,0,0,Li Qiang,1,1,smaller than 40,1,1,1,2,1,0,0,5,4,14Nov2019,2,5,6,0,0,0,0,0,0,0,9.66,4.34
+451_004,Harbin,Bank,No Money,29Oct2019,100,100,100,0,smaller than 40,0,1,1,1,1,0,4,2,0,1,0,0,0,Li Qiang,1,0,smaller than 40,0,1,1,3 or more,1,0,0,6,1,05Nov2019,9,6,6,0,0,0,0,,0,0,9.66,4.34
+451_005,Harbin,Bank,No Money,29Oct2019,100,100,100,0,smaller than 40,0,1,1,1,1,0,3,0,0,1,0,0,0,Chang Wei,1,0,smaller than 40,0,1,1,3 or more,1,0,0,6,0,05Nov2019,9,4,6,0,0,0,0,,0,0,9.66,4.34
+451_006,Harbin,Bank,No Money,29Oct2019,0,100,100,0,smaller than 40,0,1,1,1,1,0,3,1,0,1,0,0,0,Wang Lei,1,0,smaller than 40,0,1,0,2,1,0,0,6,1,05Nov2019,1,0,,0,0,0,0,,0,0,9.66,4.34
+451_007,Harbin,Bank,No Money,29Oct2019,0,0,0,1,smaller than 40,1,1,1,1,1,0,6,1,0,1,0,0,0,Li Qiang,1,1,smaller than 40,1,0,0,3 or more,1,0,0,6,2,05Nov2019,9,5,6,0,1,1,1,,1,0,9.66,4.34
+451_008,Harbin,Bank,Money,30Oct2019,0,100,100,1,smaller than 40,1,1,1,1,0,1,4,0,0,1,0,0,0,Li Qiang,1,1,smaller than 40,0,1,0,2,1,0,1,6,0,06Nov2019,3 or more,4,6,0,0,0,0,0,0,0,9.66,4.34
+451_009,Harbin,Bank,No Money,30Oct2019,0,100,100,0,smaller than 40,1,1,1,1,0,0,5,0,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,06Nov2019,9,,6,0,0,0,0,,0,0,9.66,4.34
+451_010,Harbin,Bank,Money,31Oct2019,0,0,0,1,smaller than 40,1,1,0,1,1,0,2,0,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,08Nov2019,,,,,1,1,1,1,1,0,9.66,4.34
+451_011,Harbin,Bank,Money,30Oct2019,0,0,0,0,smaller than 40,1,0,1,1,1,0,4,3,0,1,0,0,0,Wang Lei,0,,,,,,,1,0,,,,06Nov2019,9,6,6,0,1,1,1,1,1,0,9.66,4.34
+451_012,Harbin,Hotel,Money,29Oct2019,100,100,100,1,smaller than 40,1,0,1,1,0,0,5,2,1,0,0,0,0,Wang Lei,0,,,,,,,1,0,,,,05Nov2019,1,6,6,0,0,0,0,0,0,0,9.66,4.34
+451_013,Harbin,Bank,Money,29Oct2019,0,0,0,1,40+,0,1,1,1,1,0,3,0,0,1,0,0,0,Chang Wei,1,1,40+,0,1,0,1,1,0,0,5,0,05Nov2019,1,3,6,0,1,1,1,1,1,0,9.66,4.34
+451_014,Harbin,Hotel,Money,30Oct2019,0,100,100,0,40+,1,1,1,1,0,0,5,2,1,0,0,0,0,Li Qiang,0,,,,,,,1,0,,,,06Nov2019,1,2,5,0,0,0,0,0,0,0,9.66,4.34
+451_015,Harbin,Hotel,Money,29Oct2019,0,0,0,0,smaller than 40,1,1,1,1,0,0,4,2,1,0,0,0,0,Li Qiang,0,,,,,,,1,0,,,,05Nov2019,9,,4,0,1,1,1,1,1,0,9.66,4.34
+451_016,Harbin,Hotel,Money,31Oct2019,0,100,100,0,smaller than 40,1,1,0,1,0,0,3,0,1,0,0,0,0,Li Qiang,0,,,,,,,1,0,,,,08Nov2019,3 or more,4,6,0,0,0,0,0,0,0,9.66,4.34
+451_017,Harbin,Hotel,Money,30Oct2019,0,0,0,0,smaller than 40,1,1,1,1,0,0,3,1,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,1,1,1,1,0,0,5,6,06Nov2019,9,0,6,0,1,1,1,1,1,0,9.66,4.34
+451_018,Harbin,Hotel,Money,31Oct2019,0,100,100,1,smaller than 40,1,1,0,1,0,0,2,0,1,0,0,0,0,Wang Lei,0,,,,,,,1,0,,,,08Nov2019,3 or more,0,0,0,0,0,0,0,0,0,9.66,4.34
+451_019,Harbin,Hotel,Money,31Oct2019,0,100,100,0,smaller than 40,1,1,0,0,0,0,0,2,1,0,0,0,0,Li Qiang,1,0,smaller than 40,1,1,0,2,1,0,0,3,1,08Nov2019,3 or more,6,6,0,0,0,0,0,0,0,9.66,4.34
+451_020,Harbin,Hotel,Money,31Oct2019,100,100,100,0,smaller than 40,1,1,0,1,0,0,3,0,1,0,0,0,0,Chang Wei,1,0,smaller than 40,1,1,1,2,1,0,0,0,0,08Nov2019,3 or more,6,6,0,0,0,0,0,0,0,9.66,4.34
+451_021,Harbin,Hotel,No Money,06Nov2019,0,100,100,0,smaller than 40,1,1,0,0,0,0,3,0,1,0,0,0,0,Wang Lei,0,,,,,,,1,0,,,,14Nov2019,3 or more,6,6,0,0,0,0,,0,0,9.66,4.34
+451_022,Harbin,Postal Office,No Money,06Nov2019,100,100,100,0,smaller than 40,0,1,1,1,0,0,5,0,0,0,0,0,1,Li Qiang,1,0,40+,1,1,1,2,1,0,0,6,0,14Nov2019,2,4,6,0,0,0,0,,0,0,9.66,4.34
+451_023,Harbin,Postal Office,No Money,01Nov2019,0,100,100,0,smaller than 40,1,1,0,0,0,0,3,2,0,0,0,0,1,Chang Wei,0,,,,,,,1,0,,,,08Nov2019,3 or more,3,6,0,0,0,0,,0,0,9.66,4.34
+451_024,Harbin,Postal Office,Money,06Nov2019,0,0,0,1,smaller than 40,1,1,0,1,0,0,6,2,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,14Nov2019,9,0,4,0,1,1,1,1,1,0,9.66,4.34
+451_025,Harbin,Postal Office,No Money,31Oct2019,0,100,100,0,40+,1,1,0,1,1,0,3,0,0,0,0,0,1,Wang Lei,1,0,smaller than 40,0,1,0,3 or more,1,1,0,6,0,08Nov2019,2,4,6,0,0,0,0,,0,0,9.66,4.34
+451_026,Harbin,Postal Office,No Money,06Nov2019,0,100,100,0,smaller than 40,1,1,1,1,0,0,4,6,0,0,0,0,1,Chang Wei,1,0,smaller than 40,1,1,1,1,1,0,0,6,6,14Nov2019,9,2,6,0,0,0,0,,0,0,9.66,4.34
+451_027,Harbin,Postal Office,Money,31Oct2019,0,100,100,0,40+,1,1,1,1,0,0,4,3,0,0,0,0,1,Wang Lei,1,0,smaller than 40,1,1,1,2,1,0,0,6,0,08Nov2019,9,,,0,0,0,0,0,0,0,9.66,4.34
+451_028,Harbin,Postal Office,Money,31Oct2019,0,0,0,0,smaller than 40,1,1,0,1,0,0,3,3,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,08Nov2019,2,0,,0,0,1,1,0,1,0,9.66,4.34
+451_029,Harbin,Postal Office,No Money,30Oct2019,100,100,100,1,smaller than 40,1,1,1,1,1,0,2,2,0,0,0,0,1,Chang Wei,1,1,40+,1,1,1,2,1,0,1,6,6,06Nov2019,1,3,6,0,0,0,0,,0,0,9.66,4.34
+451_030,Harbin,Postal Office,Money,30Oct2019,0,0,0,0,40+,1,1,0,1,1,0,5,4,0,0,0,0,1,Wang Lei,1,0,smaller than 40,1,1,0,2,1,0,0,6,6,08Nov2019,9,1,6,0,1,1,1,1,1,0,9.66,4.34
+451_031,Harbin,Cultural Attractions,No Money,29Oct2019,0,100,100,0,smaller than 40,1,0,0,0,0,1,6,1,0,0,1,0,0,Wang Lei,1,0,smaller than 40,1,0,1,1,1,0,1,6,0,05Nov2019,1,6,6,0,0,0,0,,0,0,9.66,4.34
+451_032,Harbin,Cultural Attractions,No Money,31Oct2019,0,100,100,1,40+,,0,0,0,1,0,4,2,0,0,1,0,0,Li Qiang,0,,,,,,,1,0,,,,08Nov2019,1,,6,0,0,0,0,,0,0,9.66,4.34
+451_033,Harbin,Cultural Attractions,Money,29Oct2019,0,100,100,0,smaller than 40,1,1,1,1,1,0,4,1,0,0,1,0,0,Chang Wei,0,,,,,,,1,0,,,,05Nov2019,3 or more,4,6,0,0,0,0,0,0,0,9.66,4.34
+451_034,Harbin,Cultural Attractions,No Money,31Oct2019,0,100,100,0,smaller than 40,0,0,0,0,0,0,2,0,0,0,1,0,0,Chang Wei,0,,,,,,,1,0,,,,08Nov2019,9,,,0,0,0,0,,0,0,9.66,4.34
+451_035,Harbin,Cultural Attractions,No Money,31Oct2019,0,100,100,0,40+,0,1,1,0,0,0,2,0,0,0,1,0,0,Li Qiang,1,0,40+,0,1,1,2,1,0,0,4,1,08Nov2019,2,3,6,0,0,0,0,,0,0,9.66,4.34
+451_036,Harbin,Cultural Attractions,No Money,06Nov2019,0,100,100,1,40+,0,1,0,0,0,0,6,0,0,0,1,0,0,Chang Wei,1,1,40+,0,1,1,3 or more,1,0,0,6,4,14Nov2019,2,6,6,0,0,0,0,,0,0,9.66,4.34
+451_037,Harbin,Cultural Attractions,No Money,29Oct2019,100,100,100,0,smaller than 40,1,1,1,1,0,0,4,2,0,0,1,0,0,Wang Lei,0,,,,,,,1,0,,,,05Nov2019,2,0,6,0,0,0,0,,0,0,9.66,4.34
+451_038,Harbin,Cultural Attractions,No Money,31Oct2019,0,100,100,1,40+,0,0,0,0,0,0,3,0,0,0,1,0,0,Li Qiang,1,1,40+,0,0,0,1,1,0,0,5,0,08Nov2019,1,6,6,0,0,0,0,,0,0,9.66,4.34
+451_039,Harbin,Cultural Attractions,No Money,30Oct2019,0,100,100,0,smaller than 40,0,1,1,0,0,0,5,0,0,0,1,0,0,Li Qiang,0,,,,,,,1,0,,,,09Nov2019,3 or more,6,6,0,0,0,0,,0,0,9.66,4.34
+451_040,Harbin,Public Place,Money,30Oct2019,0,100,100,0,40+,1,,0,1,0,0,3,2,0,0,0,1,0,Li Qiang,1,0,smaller than 40,1,0,1,1,1,1,0,6,6,06Nov2019,9,4,6,0,0,0,0,0,0,0,9.66,4.34
+451_041,Harbin,Public Place,Money,01Nov2019,0,0,0,1,40+,1,1,0,0,1,0,2,0,0,0,0,1,0,Li Qiang,0,,,,,,,1,1,,,,08Nov2019,2,4,6,0,1,1,1,1,1,0,9.66,4.34
+451_042,Harbin,Public Place,Money,30Oct2019,100,100,100,1,40+,0,1,0,0,0,0,4,0,0,0,0,1,0,Chang Wei,0,,,,,,,0,0,,,,06Nov2019,3 or more,6,6,0,0,0,0,0,0,0,9.66,4.34
+451_043,Harbin,Public Place,No Money,31Oct2019,100,100,100,1,smaller than 40,0,1,0,0,0,1,6,0,0,0,0,1,0,Chang Wei,0,,,,,,,1,0,,,,08Nov2019,2,4,6,0,0,0,0,,0,0,9.66,4.34
+451_044,Harbin,Public Place,No Money,29Oct2019,0,100,100,0,smaller than 40,1,1,1,1,1,1,6,0,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,05Nov2019,3 or more,4,6,0,0,0,0,,0,0,9.66,4.34
+451_045,Harbin,Public Place,Money,30Oct2019,0,100,100,1,40+,0,1,1,0,1,0,4,1,0,0,0,1,0,Wang Lei,0,,,,,,,1,1,,,,06Nov2019,,,,,0,0,0,0,0,0,9.66,4.34
+451_046,Harbin,Public Place,No Money,30Oct2019,0,0,0,0,smaller than 40,1,1,1,1,1,0,3,3,0,0,0,1,0,Li Qiang,1,0,40+,1,1,0,3 or more,1,0,0,5,6,06Nov2019,9,5,6,0,1,1,1,,1,0,9.66,4.34
+451_047,Harbin,Public Place,No Money,30Oct2019,100,100,100,0,40+,1,1,0,1,0,0,4,3,0,0,0,1,0,Wang Lei,1,0,40+,1,1,0,3 or more,1,0,0,6,2,06Nov2019,1,3,6,0,0,0,0,,0,0,9.66,4.34
+451_048,Harbin,Public Place,No Money,31Oct2019,0,100,100,0,smaller than 40,1,1,0,0,0,0,3,2,0,0,0,1,0,Wang Lei,0,,,,,,,0,0,,,,08Nov2019,2,6,6,0,0,0,0,,0,0,9.66,4.34
+451_049,Harbin,Public Place,Money,31Oct2019,0,100,100,0,smaller than 40,1,1,0,0,0,0,2,0,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,08Nov2019,1,6,6,0,0,0,0,0,0,0,9.66,4.34
+451_050,Harbin,Public Place,Money,31Oct2019,100,100,100,1,smaller than 40,1,1,1,1,1,0,4,6,0,0,0,1,0,Chang Wei,1,1,40+,1,1,1,1,1,0,0,6,5,08Nov2019,1,0,,0,0,0,0,0,0,0,9.66,4.34
+25_001,Nanjing,Hotel,Money,19Sep2019,0,0,0,0,smaller than 40,1,,,1,0,0,6,0,1,0,0,0,0,Wang Lei,0,,,,,,,1,0,,,,26Sep2019,9,6,6,0,1,1,1,1,1,0,60.02,4.2
+25_002,Nanjing,Hotel,Money,19Sep2019,0,100,100,0,smaller than 40,1,1,,,0,0,6,0,1,0,0,0,0,Wang Lei,0,,,,,,,1,0,,,,26Sep2019,3 or more,0,6,0,0,0,0,0,0,0,60.02,4.2
+25_003,Nanjing,Postal Office,Money,19Sep2019,0,100,100,0,smaller than 40,1,,,1,1,1,6,3,0,0,0,0,1,Li Qiang,1,0,smaller than 40,0,0,0,1,1,0,1,6,0,26Sep2019,2,4,6,0,0,0,0,0,0,0,60.02,4.2
+25_004,Nanjing,Hotel,Money,19Sep2019,100,100,100,0,smaller than 40,1,,,1,0,0,6,1,1,0,0,0,0,Chang Wei,0,,,,,,,1,0,,,,26Sep2019,2,3,6,0,0,0,0,0,0,0,60.02,4.2
+25_005,Nanjing,Bank,Money,19Sep2019,0,0,0,0,smaller than 40,0,1,,1,1,0,6,3,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,26Sep2019,,,,,1,1,1,1,1,0,60.02,4.2
+25_006,Nanjing,Bank,No Money,19Sep2019,100,100,100,0,smaller than 40,1,,,1,,1,6,2,0,1,0,0,0,Wang Lei,1,0,smaller than 40,1,1,0,2,1,1,1,6,0,26Sep2019,2,3,6,0,0,0,0,,0,0,60.02,4.2
+25_007,Nanjing,Bank,Money,16Sep2019,0,100,100,0,smaller than 40,0,1,,1,1,0,6,4,0,1,0,0,0,Li Qiang,1,0,smaller than 40,0,1,0,3 or more,1,0,0,2,1,23Sep2019,,,,,0,0,0,0,0,0,60.02,4.2
+25_008,Nanjing,Bank,No Money,16Sep2019,100,100,100,0,smaller than 40,1,,0,1,1,0,6,1,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,23Sep2019,2,0,6,0,0,0,0,,0,0,60.02,4.2
+25_009,Nanjing,Bank,Money,16Sep2019,0,100,100,1,smaller than 40,1,1,,1,1,0,6,4,0,1,0,0,0,Li Qiang,1,1,smaller than 40,0,1,0,3 or more,1,0,0,4,3,23Sep2019,3 or more,0,6,0,0,0,0,0,0,0,60.02,4.2
+25_010,Nanjing,Hotel,No Money,16Sep2019,0,0,0,0,smaller than 40,1,1,,1,0,0,6,5,1,0,0,0,0,Chang Wei,0,,,,,,,1,0,,,,23Sep2019,,,,,1,1,1,,1,0,60.02,4.2
+25_011,Nanjing,Public Place,Money,20Sep2019,0,100,100,0,smaller than 40,1,1,,1,1,0,6,1,0,0,0,1,0,Wang Lei,0,,,,,,,1,1,,,,27Sep2019,1,3,6,0,0,0,0,0,0,0,60.02,4.2
+25_012,Nanjing,Cultural Attractions,Money,18Sep2019,100,100,100,1,40+,0,,,0,0,0,6,0,0,0,1,0,0,Li Qiang,0,,,,,,,1,0,,,,25Sep2019,2,0,1,0,0,0,0,0,0,0,60.02,4.2
+25_013,Nanjing,Hotel,Money,18Sep2019,100,100,100,0,smaller than 40,1,1,1,1,,1,6,4,1,0,0,0,0,Chang Wei,1,0,smaller than 40,1,1,0,1,1,0,1,6,2,25Sep2019,3 or more,0,6,0,0,0,0,0,0,0,60.02,4.2
+25_014,Nanjing,Public Place,Money,20Sep2019,0,0,0,1,40+,1,1,,1,1,0,6,0,0,0,0,1,0,Li Qiang,0,,,,,,,1,1,,,,27Sep2019,9,2,6,0,1,1,1,1,1,0,60.02,4.2
+25_015,Nanjing,Cultural Attractions,No Money,20Sep2019,100,100,100,1,smaller than 40,1,,,1,0,0,6,4,0,0,1,0,0,Chang Wei,1,1,smaller than 40,1,0,1,1,1,0,0,6,0,27Sep2019,3 or more,0,6,0,0,0,0,,0,0,60.02,4.2
+25_016,Nanjing,Public Place,No Money,20Sep2019,0,0,0,0,smaller than 40,1,1,,1,1,0,6,3,0,0,0,1,0,Li Qiang,0,,,,,,,1,0,,,,27Sep2019,9,0,6,0,1,1,1,,1,0,60.02,4.2
+25_017,Nanjing,Hotel,Money,18Sep2019,0,100,100,0,smaller than 40,1,,,1,0,0,6,0,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,0,0,1,1,0,0,5,0,25Sep2019,3 or more,3,6,0,0,0,0,0,0,0,60.02,4.2
+25_018,Nanjing,Hotel,No Money,18Sep2019,0,0,0,0,smaller than 40,1,1,,1,0,0,6,3,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,1,0,2,1,0,0,5,0,25Sep2019,,,,,1,1,1,,1,0,60.02,4.2
+25_019,Nanjing,Postal Office,No Money,18Sep2019,100,100,100,1,smaller than 40,1,1,0,1,1,0,6,3,0,0,0,0,1,Wang Lei,1,1,smaller than 40,1,1,0,2,1,0,0,3,1,25Sep2019,1,0,6,0,0,0,0,,0,0,60.02,4.2
+25_020,Nanjing,Hotel,Money,19Sep2019,0,0,0,1,smaller than 40,1,1,,1,0,1,6,3,1,0,0,0,0,Chang Wei,0,,,,,,,1,0,,,,26Sep2019,9,0,4,0,1,1,1,1,1,0,60.02,4.2
+25_021,Nanjing,Public Place,No Money,18Sep2019,0,100,100,1,smaller than 40,1,1,,1,1,0,6,5,0,0,0,1,0,Chang Wei,1,1,smaller than 40,1,0,0,1,1,0,0,3,1,25Sep2019,,,,,0,0,0,,0,0,60.02,4.2
+25_022,Nanjing,Bank,No Money,20Sep2019,0,0,0,0,smaller than 40,0,,,1,1,0,6,5,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,27Sep2019,,,,,1,1,1,,1,0,60.02,4.2
+25_023,Nanjing,Cultural Attractions,Money,20Sep2019,0,0,0,1,smaller than 40,0,,,,0,0,6,0,0,0,1,0,0,Wang Lei,0,,,,,,,1,0,,,,27Sep2019,,,,,1,1,1,1,1,0,60.02,4.2
+25_024,Nanjing,Public Place,No Money,18Sep2019,0,100,100,1,smaller than 40,1,1,0,1,1,0,6,2,0,0,0,1,0,Li Qiang,1,1,smaller than 40,1,1,0,3 or more,1,1,0,3,1,25Sep2019,,,,,0,0,0,,0,0,60.02,4.2
+25_025,Nanjing,Bank,No Money,16Sep2019,100,100,100,0,smaller than 40,0,,,1,1,1,6,2,0,1,0,0,0,Chang Wei,1,0,smaller than 40,0,1,0,2,1,0,1,4,0,23Sep2019,2,1,6,0,0,0,0,,0,0,60.02,4.2
+25_026,Nanjing,Hotel,No Money,16Sep2019,0,100,100,0,smaller than 40,1,1,,1,0,0,6,3,1,0,0,0,0,Wang Lei,0,,,,,,,1,0,,,,23Sep2019,,,,,0,0,0,,0,0,60.02,4.2
+25_027,Nanjing,Bank,Money,16Sep2019,0,100,100,0,smaller than 40,1,1,,1,1,1,5,3,0,1,0,0,0,Li Qiang,1,0,smaller than 40,1,0,0,1,1,0,1,6,3,23Sep2019,,,,,0,0,0,0,0,0,60.02,4.2
+25_028,Nanjing,Postal Office,Money,16Sep2019,0,100,100,0,smaller than 40,1,,,1,1,1,6,4,0,0,0,0,1,Chang Wei,0,,,,,,,1,0,,,,23Sep2019,2,0,6,0,0,0,0,0,0,0,60.02,4.2
+25_029,Nanjing,Public Place,No Money,20Sep2019,0,100,0,0,smaller than 40,1,,,1,1,0,5,6,0,0,0,1,0,Chang Wei,0,,,,,,,1,0,,,,27Sep2019,2,0,6,0,1,0,0,,0,0,60.02,4.2
+25_030,Nanjing,Bank,Money,16Sep2019,100,100,100,1,smaller than 40,,1,,1,1,0,6,5,0,1,0,0,0,Wang Lei,1,1,smaller than 40,0,0,0,1,1,0,0,3,0,23Sep2019,1,5,6,0,0,0,0,0,0,0,60.02,4.2
+25_031,Nanjing,Hotel,No Money,20Sep2019,0,0,0,0,smaller than 40,1,1,1,,0,0,6,5,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,0,1,1,1,0,0,4,1,27Sep2019,9,0,4,0,1,1,1,,1,0,60.02,4.2
+25_032,Nanjing,Bank,Money,16Sep2019,0,100,100,0,smaller than 40,0,1,,,1,1,6,2,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,23Sep2019,3 or more,0,6,0,0,0,0,0,0,0,60.02,4.2
+25_033,Nanjing,Postal Office,No Money,18Sep2019,0,100,100,0,smaller than 40,1,1,1,,1,0,6,4,0,0,0,0,1,Chang Wei,1,0,smaller than 40,1,1,1,2,1,0,0,4,1,25Sep2019,,,,,0,0,0,,0,0,60.02,4.2
+25_034,Nanjing,Public Place,Money,18Sep2019,100,100,100,0,smaller than 40,0,1,1,1,1,1,6,3,0,0,0,1,0,Chang Wei,1,0,smaller than 40,0,1,0,3 or more,1,0,1,5,1,25Sep2019,2,2,6,0,0,0,0,0,0,0,60.02,4.2
+25_035,Nanjing,Public Place,No Money,20Sep2019,100,100,100,0,smaller than 40,1,1,,1,1,1,6,2,0,0,0,1,0,Chang Wei,0,,,,,,,1,0,,,,27Sep2019,,,,,0,0,0,,0,0,60.02,4.2
+25_036,Nanjing,Postal Office,No Money,20Sep2019,0,100,100,0,smaller than 40,1,,,,0,0,6,1,0,0,0,0,1,Chang Wei,0,,,,,,,1,0,,,,27Sep2019,,,,,0,0,0,,0,0,60.02,4.2
+25_037,Nanjing,Public Place,Money,16Sep2019,100,100,0,1,smaller than 40,0,1,,,1,0,6,5,0,0,0,1,0,Li Qiang,0,,,,,,,1,0,,,,23Sep2019,3 or more,0,0,0,0,1,0,0,0,0,60.02,4.2
+25_038,Nanjing,Postal Office,No Money,20Sep2019,0,0,0,1,smaller than 40,0,1,,,0,0,6,6,0,0,0,0,1,Li Qiang,1,1,smaller than 40,0,1,0,2,1,0,0,5,1,27Sep2019,,,,,1,1,1,,1,0,60.02,4.2
+25_039,Nanjing,Public Place,Money,16Sep2019,100,100,100,0,smaller than 40,,,,1,1,1,6,4,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,23Sep2019,,,,,0,0,0,0,0,0,60.02,4.2
+25_040,Nanjing,Cultural Attractions,Money,16Sep2019,0,0,0,0,smaller than 40,1,,,,0,0,6,1,0,0,1,0,0,Li Qiang,1,0,smaller than 40,1,0,0,1,1,0,0,4,0,23Sep2019,,,,,1,1,1,1,1,0,60.02,4.2
+25_041,Nanjing,Cultural Attractions,Money,16Sep2019,0,0,0,0,smaller than 40,1,,1,1,0,0,6,0,0,0,1,0,0,Chang Wei,0,,,,,,,1,0,,,,23Sep2019,3 or more,3,6,0,1,1,1,1,1,0,60.02,4.2
+25_042,Nanjing,Cultural Attractions,No Money,18Sep2019,0,100,100,0,smaller than 40,1,1,,1,1,1,6,3,0,0,1,0,0,Li Qiang,1,0,smaller than 40,1,1,0,2,1,0,1,4,1,25Sep2019,9,0,6,0,0,0,0,,0,0,60.02,4.2
+25_043,Nanjing,Postal Office,No Money,18Sep2019,0,0,0,0,smaller than 40,,,,1,0,0,5,0,0,0,0,0,1,Chang Wei,1,0,40+,1,0,0,1,1,0,0,2,0,25Sep2019,,,,,1,1,1,,1,0,60.02,4.2
+25_044,Nanjing,Postal Office,Money,20Sep2019,0,0,0,0,smaller than 40,1,1,,,,1,6,5,0,0,0,0,1,Wang Lei,1,0,smaller than 40,1,0,1,1,1,0,1,6,1,27Sep2019,,,,,1,1,1,1,1,0,60.02,4.2
+25_045,Nanjing,Cultural Attractions,No Money,20Sep2019,100,100,100,0,smaller than 40,1,1,,,0,0,6,5,0,0,1,0,0,Wang Lei,1,0,smaller than 40,1,1,0,2,1,0,0,5,0,27Sep2019,,,,,0,0,0,,0,0,60.02,4.2
+25_046,Nanjing,Cultural Attractions,Money,19Sep2019,0,0,0,1,40+,1,,,1,1,0,6,0,0,0,1,0,0,Wang Lei,0,,,,,,,1,0,,,,26Sep2019,,,,,1,1,1,1,1,0,60.02,4.2
+25_047,Nanjing,Postal Office,No Money,16Sep2019,0,100,0,0,smaller than 40,1,1,,1,,0,6,5,0,0,0,0,1,Chang Wei,1,0,smaller than 40,1,1,1,2,1,0,0,4,2,23Sep2019,9,0,6,0,0,1,0,,0,0,60.02,4.2
+25_048,Nanjing,Cultural Attractions,No Money,18Sep2019,0,100,100,0,smaller than 40,0,1,,1,1,0,6,1,0,0,1,0,0,Li Qiang,0,,,,,,,1,0,,,,25Sep2019,1,6,6,0,0,0,0,,0,0,60.02,4.2
+25_049,Nanjing,Cultural Attractions,No Money,19Sep2019,0,100,100,0,smaller than 40,1,1,,1,1,1,6,4,0,0,1,0,0,Wang Lei,0,,,,,,,1,0,,,,26Sep2019,9,6,6,0,0,0,0,,0,0,60.02,4.2
+25_050,Nanjing,Postal Office,No Money,20Sep2019,100,0,0,1,smaller than 40,1,1,,,0,1,6,1,0,0,0,0,1,Wang Lei,1,1,smaller than 40,1,1,0,2,1,0,1,6,0,27Sep2019,2,4,6,0,1,1,1,,1,0,60.02,4.2
+22_001,Tianjin,Hotel,No Money,03Sep2019,0,100,100,0,smaller than 40,1,0,1,1,0,0,0,1,1,0,0,0,0,Wang Lei,0,,,,,,,1,0,,,,10Sep2019,2,5,5,0,0,0,0,,0,0,11.38,4.09
+22_002,Tianjin,Cultural Attractions,Money,06Sep2019,0,100,100,0,40+,1,1,1,,0,0,4,0,0,0,1,0,0,Li Qiang,1,0,40+,1,1,1,2,1,0,0,5,2,15Sep2019,2,,6,0,0,0,0,0,0,0,11.38,4.09
+22_003,Tianjin,Bank,Money,05Sep2019,100,100,100,0,smaller than 40,1,1,1,1,1,1,6,6,0,1,0,0,0,Chang Wei,1,0,smaller than 40,0,1,1,3 or more,1,1,1,6,2,12Sep2019,2,4,4,0,0,0,0,0,0,0,11.38,4.09
+22_004,Tianjin,Postal Office,No Money,03Sep2019,0,100,100,0,40+,1,1,0,1,0,0,6,3,0,0,0,0,1,Chang Wei,0,,,,,,,1,0,,,,10Sep2019,9,4,4,0,0,0,0,,0,0,11.38,4.09
+22_005,Tianjin,Public Place,Money,05Sep2019,0,100,100,1,smaller than 40,0,1,1,1,1,0,6,0,0,0,0,1,0,Wang Lei,0,,,,,,,1,1,,,,12Sep2019,2,0,6,0,0,0,0,0,0,0,11.38,4.09
+22_006,Tianjin,Hotel,No Money,06Sep2019,100,100,100,0,smaller than 40,1,1,1,1,0,0,6,1,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,1,0,2,1,0,0,5,3,16Sep2019,2,,4,0,0,0,0,,0,0,11.38,4.09
+22_007,Tianjin,Postal Office,No Money,05Sep2019,0,100,100,0,40+,0,1,,1,1,0,6,1,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,12Sep2019,2,1,5,0,0,0,0,,0,0,11.38,4.09
+22_008,Tianjin,Bank,Money,05Sep2019,0,0,0,1,smaller than 40,1,1,1,1,1,1,6,3,0,1,0,0,0,Li Qiang,1,1,smaller than 40,1,1,1,2,1,1,1,6,4,12Sep2019,,,,,1,1,1,1,1,0,11.38,4.09
+22_010,Tianjin,Public Place,Money,04Sep2019,100,100,100,0,smaller than 40,1,1,1,1,0,0,3,2,0,0,0,1,0,Li Qiang,0,,,,,,,1,0,,,,11Sep2019,2,,4,0,0,0,0,0,0,0,11.38,4.09
+22_011,Tianjin,Hotel,Money,06Sep2019,0,100,100,0,smaller than 40,1,1,1,1,0,0,6,1,1,0,0,0,0,Chang Wei,0,,,,,,,1,0,,,,16Sep2019,2,,,0,0,0,0,0,0,0,11.38,4.09
+22_013,Tianjin,Public Place,Money,05Sep2019,0,0,0,1,40+,1,1,1,1,1,0,6,4,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,12Sep2019,,,,,1,1,1,1,1,0,11.38,4.09
+22_014,Tianjin,Bank,No Money,06Sep2019,0,100,100,1,smaller than 40,0,,0,1,0,0,5,0,0,1,0,0,0,Chang Wei,1,1,smaller than 40,1,1,1,2,1,1,0,5,1,16Sep2019,9,,,0,0,0,0,,0,0,11.38,4.09
+22_015,Tianjin,Hotel,Money,04Sep2019,0,0,0,0,40+,1,0,0,1,0,0,5,2,1,0,0,0,0,Li Qiang,1,0,40+,1,0,0,1,0,0,0,5,0,11Sep2019,9,,,0,1,1,1,1,1,0,11.38,4.09
+22_017,Tianjin,Bank,No Money,04Sep2019,100,100,100,0,smaller than 40,0,1,1,1,1,0,6,3,0,1,0,0,0,Wang Lei,0,,,,,,,1,1,,,,11Sep2019,9,5,5,0,0,0,0,,0,0,11.38,4.09
+22_018,Tianjin,Hotel,Money,05Sep2019,100,100,100,1,smaller than 40,1,0,0,1,0,0,6,3,1,0,0,0,0,Chang Wei,1,0,smaller than 40,0,1,1,3 or more,1,1,0,5,2,12Sep2019,2,0,,0,0,0,0,0,0,0,11.38,4.09
+22_019,Tianjin,Public Place,No Money,05Sep2019,0,100,100,0,smaller than 40,1,1,1,1,1,1,6,1,0,0,0,1,0,Li Qiang,1,0,smaller than 40,1,1,1,3 or more,1,1,1,5,2,12Sep2019,2,0,,0,0,0,0,,0,0,11.38,4.09
+22_020,Tianjin,Bank,Money,05Sep2019,100,100,100,0,smaller than 40,1,1,1,1,1,0,6,0,0,1,0,0,0,Wang Lei,0,,,,,,,1,1,,,,12Sep2019,2,5,5,0,0,0,0,0,0,0,11.38,4.09
+22_021,Tianjin,Hotel,Money,04Sep2019,100,100,100,0,40+,1,1,1,1,0,0,5,2,1,0,0,0,0,Chang Wei,1,0,smaller than 40,1,0,1,2,1,0,1,5,2,11Sep2019,2,,0,0,0,0,0,0,0,0,11.38,4.09
+22_022,Tianjin,Hotel,No Money,04Sep2019,0,100,100,0,smaller than 40,1,1,1,1,1,0,1,2,1,0,0,0,0,Chang Wei,0,,,,,,,1,0,,,,11Sep2019,1,,,0,0,0,0,,0,0,11.38,4.09
+22_023,Tianjin,Cultural Attractions,Money,03Sep2019,0,0,0,1,smaller than 40,0,1,1,0,0,1,4,0,0,0,1,0,0,Li Qiang,0,,,,,,,0,0,,,,10Sep2019,9,6,6,0,1,1,1,1,1,0,11.38,4.09
+22_024,Tianjin,Public Place,No Money,04Sep2019,0,0,0,0,40+,1,1,1,1,0,0,4,6,0,0,0,1,0,Wang Lei,1,0,40+,1,1,1,2,1,1,0,6,5,11Sep2019,,,,,1,1,1,,1,1,11.38,4.09
+22_025,Tianjin,Bank,No Money,04Sep2019,0,100,100,0,40+,1,1,1,1,1,0,6,1,0,1,0,0,0,Chang Wei,0,,,,,,,1,1,,,,11Sep2019,1,6,6,0,0,0,0,,0,0,11.38,4.09
+22_026,Tianjin,Public Place,Money,03Sep2019,100,100,100,0,smaller than 40,1,1,1,1,,0,5,2,0,0,0,1,0,Li Qiang,1,0,smaller than 40,1,1,1,3 or more,1,1,1,6,2,10Sep2019,2,6,6,0,0,0,0,0,0,0,11.38,4.09
+22_028,Tianjin,Postal Office,No Money,03Sep2019,0,100,100,0,smaller than 40,1,1,1,1,0,0,6,0,0,0,0,0,1,Wang Lei,1,0,smaller than 40,0,0,0,3 or more,1,0,0,5,1,10Sep2019,2,6,6,0,0,0,0,,0,0,11.38,4.09
+22_029,Tianjin,Postal Office,Money,05Sep2019,0,100,100,0,smaller than 40,,1,0,1,0,0,5,1,0,0,0,0,1,Chang Wei,1,0,smaller than 40,1,1,1,3 or more,1,0,1,5,2,12Sep2019,2,5,5,0,0,0,0,0,0,0,11.38,4.09
+22_030,Tianjin,Bank,No Money,04Sep2019,0,100,100,0,smaller than 40,0,1,1,1,1,1,5,0,0,1,0,0,0,Li Qiang,0,,,,,,,1,1,,,,11Sep2019,2,0,0,0,0,0,0,,0,0,11.38,4.09
+22_031,Tianjin,Hotel,No Money,05Sep2019,0,100,100,0,smaller than 40,1,1,1,1,1,1,5,4,1,0,0,0,0,Chang Wei,1,0,smaller than 40,1,1,1,3 or more,1,1,1,5,1,12Sep2019,2,0,1,0,0,0,0,,0,0,11.38,4.09
+22_032,Tianjin,Cultural Attractions,Money,05Sep2019,100,100,100,0,40+,1,1,1,1,0,0,6,1,0,0,1,0,0,Li Qiang,0,,,,,,,1,0,,,,12Sep2019,1,,,0,0,0,0,0,0,0,11.38,4.09
+22_033,Tianjin,Postal Office,Money,03Sep2019,0,100,100,0,smaller than 40,1,1,0,1,0,0,6,1,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,10Sep2019,2,6,6,0,0,0,0,0,0,0,11.38,4.09
+22_034,Tianjin,Bank,No Money,06Sep2019,0,0,0,0,smaller than 40,0,1,1,1,1,1,5,5,0,1,0,0,0,Wang Lei,1,0,smaller than 40,0,1,,3 or more,1,0,0,6,3,16Sep2019,,,,,1,1,1,,1,0,11.38,4.09
+22_035,Tianjin,Hotel,Money,05Sep2019,0,100,100,1,smaller than 40,1,0,0,1,0,0,6,0,1,0,0,0,0,Li Qiang,0,,,,,,,1,0,,,,12Sep2019,2,1,6,0,0,0,0,0,0,0,11.38,4.09
+22_036,Tianjin,Postal Office,No Money,04Sep2019,100,100,100,0,smaller than 40,1,1,1,1,1,0,2,1,0,0,0,0,1,Chang Wei,1,0,40+,1,1,1,3 or more,1,1,0,5,2,11Sep2019,2,,,0,0,0,0,,0,0,11.38,4.09
+22_037,Tianjin,Cultural Attractions,No Money,05Sep2019,0,100,100,0,smaller than 40,0,1,1,,0,0,5,1,0,0,1,0,0,Li Qiang,0,,,,,,,0,0,,,,12Sep2019,2,,,0,0,0,0,,0,0,11.38,4.09
+22_038,Tianjin,Hotel,Money,03Sep2019,0,100,100,0,smaller than 40,1,0,0,1,0,0,5,2,1,0,0,0,0,Chang Wei,1,0,smaller than 40,1,0,0,1,1,0,0,5,0,10Sep2019,2,,,0,0,0,0,0,0,0,11.38,4.09
+22_039,Tianjin,Public Place,No Money,05Sep2019,0,100,100,1,40+,1,1,1,1,0,0,6,6,0,0,0,1,0,Wang Lei,1,1,40+,0,1,1,2,1,0,0,5,4,12Sep2019,2,3,3,0,0,0,0,,0,0,11.38,4.09
+22_040,Tianjin,Bank,Money,03Sep2019,0,100,100,0,smaller than 40,1,1,1,1,1,1,6,2,0,1,0,0,0,Wang Lei,0,,,,,,,1,1,,,,10Sep2019,9,5,5,0,0,0,0,0,0,0,11.38,4.09
+22_041,Tianjin,Hotel,No Money,06Sep2019,0,0,0,1,smaller than 40,0,1,1,1,0,0,6,6,1,0,0,0,0,Li Qiang,0,,,,,,,1,0,,,,16Sep2019,,,,,1,1,1,,1,0,11.38,4.09
+22_042,Tianjin,Postal Office,Money,04Sep2019,100,100,100,1,smaller than 40,1,0,1,1,0,0,5,3,0,0,0,0,1,Chang Wei,1,1,smaller than 40,1,0,1,1,1,0,0,6,4,11Sep2019,,,,,0,0,0,0,0,0,11.38,4.09
+22_043,Tianjin,Cultural Attractions,Money,04Sep2019,0,0,0,0,40+,1,1,1,1,0,0,5,2,0,0,1,0,0,Chang Wei,1,0,smaller than 40,1,1,1,3 or more,1,0,0,5,1,11Sep2019,2,,0,0,1,1,1,1,1,1,11.38,4.09
+22_044,Tianjin,Bank,No Money,05Sep2019,0,100,100,0,40+,0,1,0,1,1,0,2,0,0,1,0,0,0,Wang Lei,0,,,,,,,1,0,,,,12Sep2019,1,,,0,0,0,0,,0,0,11.38,4.09
+22_045,Tianjin,Public Place,No Money,03Sep2019,0,100,100,1,smaller than 40,1,1,1,1,0,1,6,2,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,10Sep2019,2,5,5,0,0,0,0,,0,0,11.38,4.09
+22_046,Tianjin,Cultural Attractions,Money,06Sep2019,0,0,0,0,smaller than 40,1,1,1,1,0,1,6,0,0,0,1,0,0,Li Qiang,1,0,40+,1,1,1,3 or more,1,0,0,5,1,16Sep2019,9,,,0,1,1,1,1,1,0,11.38,4.09
+22_047,Tianjin,Cultural Attractions,Money,05Sep2019,100,100,100,0,40+,0,1,0,,0,0,6,0,0,0,1,0,0,Wang Lei,1,0,smaller than 40,1,1,0,2,1,0,0,5,1,12Sep2019,2,0,6,0,0,0,0,0,0,0,11.38,4.09
+22_048,Tianjin,Bank,No Money,04Sep2019,0,0,0,1,smaller than 40,1,1,1,1,0,0,5,3,0,1,0,0,0,Chang Wei,0,,,,,,,1,1,,,,11Sep2019,9,,,0,1,1,1,,1,0,11.38,4.09
+22_049,Tianjin,Public Place,No Money,04Sep2019,0,0,0,0,smaller than 40,0,1,1,1,0,0,5,6,0,0,0,1,0,Chang Wei,1,0,smaller than 40,1,1,1,2,1,0,1,6,2,11Sep2019,2,,,0,1,1,1,,1,1,11.38,4.09
+22_050,Tianjin,Postal Office,Money,04Sep2019,0,100,100,0,smaller than 40,0,1,1,1,0,0,6,6,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,11Sep2019,2,,,0,0,0,0,0,0,0,11.38,4.09
+22_051,Tianjin,Bank,No Money,06Sep2019,0,100,100,1,smaller than 40,1,1,1,1,1,1,6,1,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,16Sep2019,2,6,6,0,0,0,0,,0,0,11.38,4.09
+22_052,Tianjin,Hotel,No Money,06Sep2019,0,100,100,0,smaller than 40,1,1,0,1,0,0,6,1,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,1,0,2,1,0,0,5,1,16Sep2019,2,4,4,0,0,0,0,,0,0,11.38,4.09
+22_053,Tianjin,Bank,No Money,06Sep2019,0,100,100,0,40+,1,1,0,1,1,1,6,2,0,1,0,0,0,Chang Wei,1,0,smaller than 40,1,1,0,2,1,1,1,6,2,16Sep2019,2,4,4,0,0,0,0,,0,0,11.38,4.09
+22_054,Tianjin,Bank,Money,06Sep2019,0,100,100,0,smaller than 40,0,1,1,1,1,0,6,3,0,1,0,0,0,Wang Lei,0,,,,,,,1,1,,,,16Sep2019,2,5,6,0,0,0,0,0,0,0,11.38,4.09
+20_001,Guangzhou,Public Place,No Money,29Aug2019,0,100,100,0,smaller than 40,1,0,0,1,0,0,6,0,0,0,0,1,0,Chang Wei,0,,,,,,,1,0,,,,05Sep2019,2,6,6,0,0,0,0,,0,0,73.31,4.09
+20_002,Guangzhou,Postal Office,Money,31Aug2019,0,100,0,1,smaller than 40,1,1,0,1,0,0,6,4,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,07Sep2019,3 or more,,,0,0,1,0,1,0,0,73.31,4.09
+20_003,Guangzhou,Public Place,Money,26Aug2019,0,100,0,0,smaller than 40,1,0,1,1,1,0,6,6,0,0,0,1,0,Chang Wei,1,0,smaller than 40,1,0,1,1,1,0,0,6,3,02Sep2019,1,1,,0,0,0,0,1,0,0,73.31,4.09
+20_004,Guangzhou,Postal Office,No Money,31Aug2019,0,100,100,0,40+,1,0,1,1,0,0,6,6,0,0,0,0,1,Li Qiang,1,0,smaller than 40,1,0,1,1,1,0,0,6,6,07Sep2019,3 or more,,2,0,0,0,0,,0,0,73.31,4.09
+20_005,Guangzhou,Hotel,No Money,31Aug2019,100,100,100,0,smaller than 40,1,1,0,1,0,0,6,0,1,0,0,0,0,Wang Lei,0,,,,,,,1,0,,,,07Sep2019,3 or more,0,,0,0,0,0,,0,0,73.31,4.09
+20_006,Guangzhou,Bank,Money,29Aug2019,100,100,100,1,smaller than 40,0,1,0,1,1,1,6,3,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,05Sep2019,2,0,2,0,0,0,0,0,0,0,73.31,4.09
+20_007,Guangzhou,Public Place,No Money,27Aug2019,0,100,100,0,smaller than 40,1,1,1,1,0,0,6,6,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,03Sep2019,2,0,0,0,0,0,0,,0,0,73.31,4.09
+20_008,Guangzhou,Public Place,Money,29Aug2019,100,100,100,0,smaller than 40,1,1,0,1,1,0,6,4,0,0,0,1,0,Wang Lei,1,0,smaller than 40,1,1,0,2,1,1,1,6,2,05Sep2019,3 or more,6,6,0,0,0,0,0,0,0,73.31,4.09
+20_009,Guangzhou,Hotel,Money,26Aug2019,0,0,0,0,smaller than 40,1,1,1,1,1,0,6,6,1,0,0,0,0,Wang Lei,0,,,,,,,1,0,,,,02Sep2019,9,,,0,1,1,1,1,1,0,73.31,4.09
+20_010,Guangzhou,Postal Office,No Money,31Aug2019,0,100,100,1,40+,1,0,0,1,0,0,6,5,0,0,0,0,1,Wang Lei,1,1,40+,1,0,0,1,1,0,0,6,3,07Sep2019,1,0,0,0,0,0,0,,0,0,73.31,4.09
+20_011,Guangzhou,Hotel,No Money,30Aug2019,0,100,100,0,smaller than 40,1,1,0,1,0,0,6,3,1,0,0,0,0,Li Qiang,0,,,,,,,1,0,,,,06Sep2019,1,3,0,0,0,0,0,,0,0,73.31,4.09
+20_012,Guangzhou,Cultural Attractions,Money,30Aug2019,0,100,100,0,smaller than 40,1,0,1,1,0,0,3,5,0,0,1,0,0,Wang Lei,1,0,smaller than 40,0,0,1,1,0,0,0,6,0,06Sep2019,2,4,6,0,0,0,0,0,0,0,73.31,4.09
+20_013,Guangzhou,Postal Office,Money,31Aug2019,0,100,0,0,smaller than 40,1,1,1,1,0,0,6,6,0,0,0,0,1,Li Qiang,1,0,40+,1,0,1,1,1,0,0,6,5,07Sep2019,1,3,6,0,0,0,1,0,0,0,73.31,4.09
+20_014,Guangzhou,Hotel,Money,30Aug2019,0,100,100,1,smaller than 40,1,1,1,1,1,0,6,5,1,0,0,0,0,Wang Lei,1,1,smaller than 40,1,1,1,3 or more,1,0,0,6,6,06Sep2019,3 or more,1,5,0,0,0,0,0,0,0,73.31,4.09
+20_015,Guangzhou,Hotel,No Money,31Aug2019,0,100,100,0,smaller than 40,1,0,0,1,1,0,6,3,1,0,0,0,0,Li Qiang,1,0,smaller than 40,1,0,0,1,1,0,0,6,3,07Sep2019,1,0,0,0,0,0,0,,0,0,73.31,4.09
+20_016,Guangzhou,Postal Office,Money,31Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,0,6,6,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,07Sep2019,2,0,4,0,0,0,0,0,0,0,73.31,4.09
+20_017,Guangzhou,Bank,Money,30Aug2019,0,100,100,1,smaller than 40,1,0,1,1,1,1,5,6,0,1,0,0,0,Wang Lei,1,1,smaller than 40,1,0,1,1,1,0,1,5,5,06Sep2019,1,0,6,0,0,0,0,0,0,0,73.31,4.09
+20_018,Guangzhou,Cultural Attractions,Money,30Aug2019,100,100,0,1,smaller than 40,1,1,1,1,1,0,6,5,0,0,1,0,0,Li Qiang,0,,,,,,,1,0,,,,06Sep2019,3 or more,2,6,0,0,0,0,1,0,0,73.31,4.09
+20_019,Guangzhou,Cultural Attractions,Money,30Aug2019,0,0,0,1,smaller than 40,0,1,1,1,1,0,5,4,0,0,1,0,0,Chang Wei,1,1,40+,0,1,1,1,,1,0,4,2,06Sep2019,2,0,6,0,1,1,1,1,1,0,73.31,4.09
+20_020,Guangzhou,Hotel,No Money,26Aug2019,0,100,100,0,smaller than 40,1,1,0,1,0,0,6,4,1,0,0,0,0,Chang Wei,0,,,,,,,1,0,,,,02Sep2019,2,0,0,0,0,0,0,,0,0,73.31,4.09
+20_021,Guangzhou,Hotel,No Money,29Aug2019,100,100,100,0,smaller than 40,1,1,0,1,1,1,6,5,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,1,0,3 or more,1,0,1,6,2,05Sep2019,3 or more,2,5,0,0,0,0,,0,0,73.31,4.09
+20_022,Guangzhou,Postal Office,Money,31Aug2019,100,100,0,0,smaller than 40,1,1,1,1,0,0,6,4,0,0,0,0,1,Chang Wei,0,,,,,,,1,0,,,,07Sep2019,2,6,6,0,0,0,0,1,0,0,73.31,4.09
+20_023,Guangzhou,Bank,Money,27Aug2019,0,0,0,1,smaller than 40,0,1,0,1,1,1,6,3,0,1,0,0,0,Li Qiang,1,1,smaller than 40,0,0,0,1,1,0,1,6,0,03Sep2019,9,,,0,1,1,1,1,1,0,73.31,4.09
+20_024,Guangzhou,Cultural Attractions,No Money,31Aug2019,0,100,100,1,40+,0,0,0,0,1,0,6,0,0,0,1,0,0,Chang Wei,1,1,40+,0,0,0,2,0,0,0,6,0,07Sep2019,3 or more,0,3,0,0,0,0,,0,0,73.31,4.09
+20_025,Guangzhou,Public Place,No Money,27Aug2019,100,100,100,0,smaller than 40,1,1,1,1,1,1,6,5,0,0,0,1,0,Chang Wei,1,0,smaller than 40,1,1,1,1,1,0,1,5,4,03Sep2019,3 or more,,0,0,0,0,0,,0,0,73.31,4.09
+20_026,Guangzhou,Postal Office,Money,29Aug2019,0,100,0,1,smaller than 40,1,1,1,1,1,0,6,6,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,05Sep2019,1,0,4,0,0,0,0,1,0,0,73.31,4.09
+20_027,Guangzhou,Public Place,No Money,30Aug2019,0,0,0,1,40+,1,1,0,1,0,0,5,4,0,0,0,1,0,Li Qiang,1,1,40+,1,1,0,2,1,0,0,6,0,06Sep2019,9,,,,1,1,1,,1,0,73.31,4.09
+20_028,Guangzhou,Bank,No Money,27Aug2019,100,100,100,0,smaller than 40,0,1,0,1,1,1,6,2,0,1,0,0,0,Wang Lei,0,,,,,,,1,0,,,,03Sep2019,1,1,4,0,0,0,0,,0,0,73.31,4.09
+20_029,Guangzhou,Postal Office,No Money,31Aug2019,0,100,100,1,smaller than 40,1,0,1,1,1,0,6,5,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,07Sep2019,9,0,0,0,0,0,0,,0,0,73.31,4.09
+20_030,Guangzhou,Cultural Attractions,Money,31Aug2019,100,100,100,0,40+,0,0,1,0,0,0,6,0,0,0,1,0,0,Chang Wei,1,0,40+,0,0,0,1,0,0,0,2,0,07Sep2019,3 or more,0,6,0,0,0,0,0,0,0,73.31,4.09
+20_031,Guangzhou,Public Place,No Money,30Aug2019,0,100,100,1,40+,0,1,1,1,1,0,6,3,0,0,0,1,0,Li Qiang,0,,,,,,,1,1,,,,06Sep2019,3 or more,0,6,0,0,0,0,,0,0,73.31,4.09
+20_032,Guangzhou,Cultural Attractions,No Money,30Aug2019,0,100,100,0,smaller than 40,1,1,0,1,1,0,6,6,0,0,1,0,0,Li Qiang,1,0,40+,1,1,1,2,1,1,,6,3,06Sep2019,3 or more,0,0,0,0,0,0,,0,0,73.31,4.09
+20_033,Guangzhou,Bank,Money,29Aug2019,0,100,100,0,smaller than 40,0,1,0,1,1,1,6,4,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,05Sep2019,2,3,6,0,0,0,0,0,0,0,73.31,4.09
+20_034,Guangzhou,Postal Office,No Money,31Aug2019,0,100,100,1,40+,1,1,1,1,0,1,6,4,0,0,0,0,1,Wang Lei,1,1,40+,1,1,1,3 or more,1,0,1,6,5,07Sep2019,3 or more,0,6,0,0,0,0,,0,0,73.31,4.09
+20_035,Guangzhou,Public Place,No Money,29Aug2019,0,0,0,1,smaller than 40,1,1,1,1,0,0,6,4,0,0,0,1,0,Li Qiang,0,,,,,,,1,0,,,,05Sep2019,9,0,0,0,1,1,1,,1,0,73.31,4.09
+20_036,Guangzhou,Bank,Money,27Aug2019,0,0,0,0,smaller than 40,1,1,1,1,1,0,6,6,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,03Sep2019,2,4,,,1,1,1,1,1,0,73.31,4.09
+20_037,Guangzhou,Public Place,No Money,30Aug2019,0,100,100,1,40+,1,0,0,1,0,0,5,4,0,0,0,1,0,Wang Lei,1,1,40+,,0,0,1,0,0,0,5,0,06Sep2019,9,,,0,0,0,0,,0,0,73.31,4.09
+20_038,Guangzhou,Bank,No Money,29Aug2019,100,100,100,0,smaller than 40,1,1,0,1,1,1,6,3,0,1,0,0,0,Wang Lei,1,0,smaller than 40,1,1,0,3 or more,1,0,1,6,0,05Sep2019,3 or more,0,0,0,0,0,0,,0,0,73.31,4.09
+20_039,Guangzhou,Bank,Money,27Aug2019,0,100,100,0,smaller than 40,0,1,1,1,1,1,6,5,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,03Sep2019,2,0,5,0,0,0,0,0,0,0,73.31,4.09
+20_040,Guangzhou,Public Place,No Money,30Aug2019,0,100,100,1,smaller than 40,1,1,0,1,0,1,6,6,0,0,0,1,0,Chang Wei,0,,,,,,,1,0,,,,06Sep2019,1,0,3,0,0,0,0,,0,0,73.31,4.09
+20_041,Guangzhou,Cultural Attractions,No Money,26Aug2019,0,100,100,0,smaller than 40,1,1,1,1,0,0,6,5,0,0,1,0,0,Chang Wei,1,0,smaller than 40,1,1,1,2,1,0,0,6,0,02Sep2019,3 or more,3,6,0,0,0,0,,0,0,73.31,4.09
+20_042,Guangzhou,Bank,No Money,27Aug2019,0,0,0,0,smaller than 40,0,1,1,1,1,0,6,6,0,1,0,0,0,Chang Wei,1,0,smaller than 40,0,1,1,1,1,0,0,6,6,03Sep2019,9,,,0,1,1,1,,1,0,73.31,4.09
+20_043,Guangzhou,Cultural Attractions,Money,31Aug2019,100,100,100,0,smaller than 40,1,1,0,1,1,0,6,5,0,0,1,0,0,Chang Wei,0,,,,,,,1,0,,,,07Sep2019,3 or more,3,5,0,0,0,0,0,0,0,73.31,4.09
+20_044,Guangzhou,Cultural Attractions,Money,30Aug2019,0,100,0,0,smaller than 40,1,1,1,1,1,1,6,5,0,0,1,0,0,Chang Wei,1,0,smaller than 40,1,1,1,2,1,0,1,6,4,06Sep2019,3 or more,0,6,0,0,0,0,1,0,0,73.31,4.09
+20_045,Guangzhou,Cultural Attractions,No Money,31Aug2019,0,100,100,1,40+,0,1,0,1,1,0,5,0,0,0,1,0,0,Li Qiang,0,,,,,,,0,1,,,,07Sep2019,3 or more,0,6,0,0,0,0,,0,0,73.31,4.09
+20_046,Guangzhou,Hotel,Money,27Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,0,6,6,1,0,0,0,0,Li Qiang,1,0,smaller than 40,1,1,1,1,1,0,0,6,6,03Sep2019,3 or more,0,,0,0,0,0,0,0,0,73.31,4.09
+20_047,Guangzhou,Postal Office,No Money,31Aug2019,0,100,100,0,smaller than 40,1,1,0,1,0,0,6,4,0,0,0,0,1,Wang Lei,1,0,smaller than 40,1,0,0,2,1,0,0,6,3,07Sep2019,3 or more,0,4,0,0,0,0,,0,0,73.31,4.09
+20_048,Guangzhou,Bank,Money,29Aug2019,0,100,0,0,smaller than 40,0,1,0,1,1,1,6,2,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,05Sep2019,2,0,,0,0,0,0,1,0,0,73.31,4.09
+20_049,Guangzhou,Hotel,Money,29Aug2019,100,100,0,0,smaller than 40,1,1,0,1,0,1,6,3,1,0,0,0,0,Li Qiang,0,,,,,,,1,0,,,,05Sep2019,2,0,5,0,0,0,0,1,0,0,73.31,4.09
+20_050,Guangzhou,Hotel,Money,26Aug2019,0,100,100,0,smaller than 40,1,0,1,0,1,0,6,6,1,0,0,0,0,Li Qiang,0,,,,,,,1,0,,,,02Sep2019,9,5,5,0,0,0,0,0,0,0,73.31,4.09
+755_001,Shenzhen,Cultural Attractions,Money,24Aug2019,0,100,0,1,smaller than 40,1,0,1,1,1,0,4,2,0,0,1,0,0,Chang Wei,1,1,smaller than 40,0,1,1,2,1,1,0,4,2,31Aug2019,9,0,3,0,0,1,0,0,0,0,73.31,4.27
+755_003,Shenzhen,Postal Office,Money,24Aug2019,0,100,100,0,40+,1,1,0,1,0,0,2,1,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,31Aug2019,2,,,0,0,0,0,0,0,0,73.31,4.27
+755_004,Shenzhen,Postal Office,Money,24Aug2019,0,100,100,1,smaller than 40,1,1,1,,0,0,5,1,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,31Aug2019,2,,6,0,0,0,0,0,0,0,73.31,4.27
+755_005,Shenzhen,Postal Office,No Money,24Aug2019,0,0,0,1,smaller than 40,1,0,0,1,0,0,5,0,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,31Aug2019,1,0,,0,1,1,1,,1,0,73.31,4.27
+755_006,Shenzhen,Postal Office,No Money,24Aug2019,0,0,0,1,smaller than 40,0,1,1,1,0,0,0,0,0,0,0,0,1,Wang Lei,1,1,40+,1,1,1,3 or more,1,0,0,0,2,31Aug2019,9,5,6,0,1,1,1,,1,0,73.31,4.27
+755_007,Shenzhen,Postal Office,Money,24Aug2019,0,100,100,0,40+,0,1,1,1,0,0,5,3,0,0,0,0,1,Wang Lei,1,0,smaller than 40,1,1,1,3 or more,1,0,0,2,4,31Aug2019,2,3,6,0,0,0,0,0,0,0,73.31,4.27
+755_008,Shenzhen,Hotel,Money,25Aug2019,0,100,0,0,smaller than 40,1,1,0,1,0,0,5,2,1,0,0,0,0,Li Qiang,0,,,,,,,1,0,,,,01Sep2019,2,6,6,0,0,1,0,1,0,0,73.31,4.27
+755_009,Shenzhen,Postal Office,No Money,25Aug2019,0,100,100,1,40+,0,1,1,,0,0,1,3,0,0,0,0,1,Chang Wei,1,1,40+,0,1,1,3 or more,1,0,0,6,1,01Sep2019,9,0,,0,0,0,0,,0,0,73.31,4.27
+755_010,Shenzhen,Hotel,No Money,25Aug2019,0,100,100,0,smaller than 40,1,1,0,1,0,1,4,1,1,0,0,0,0,Li Qiang,1,0,smaller than 40,1,1,1,1,1,0,1,6,2,01Sep2019,2,,6,0,0,0,0,,0,0,73.31,4.27
+755_011,Shenzhen,Hotel,No Money,25Aug2019,100,100,100,0,smaller than 40,1,1,1,1,0,1,5,3,1,0,0,0,0,Li Qiang,1,0,smaller than 40,1,1,1,3 or more,1,0,0,6,2,01Sep2019,3 or more,6,6,0,0,0,0,,0,0,73.31,4.27
+755_012,Shenzhen,Hotel,No Money,25Aug2019,0,100,100,0,smaller than 40,1,1,0,1,0,1,4,5,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,1,0,3 or more,1,0,0,4,2,01Sep2019,9,,6,0,0,0,0,,0,0,73.31,4.27
+755_013,Shenzhen,Postal Office,Money,25Aug2019,100,100,100,0,smaller than 40,1,1,1,1,0,0,4,3,0,0,0,0,1,Li Qiang,1,0,smaller than 40,1,1,1,2,1,0,1,6,2,01Sep2019,1,0,6,0,0,0,0,0,0,0,73.31,4.27
+755_014,Shenzhen,Hotel,Money,27Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,1,2,6,1,0,0,0,0,Li Qiang,0,,,,,,,1,0,,,,03Sep2019,2,6,6,0,0,0,0,0,0,0,73.31,4.27
+755_015,Shenzhen,Cultural Attractions,No Money,27Aug2019,0,0,0,0,smaller than 40,0,1,0,,1,0,0,0,0,0,1,0,0,Chang Wei,1,0,smaller than 40,0,1,0,2,1,0,0,6,0,03Sep2019,9,0,0,0,1,1,1,,1,0,73.31,4.27
+755_016,Shenzhen,Postal Office,No Money,25Aug2019,0,100,100,1,40+,1,1,1,1,0,0,0,2,0,0,0,0,1,Wang Lei,1,1,40+,1,1,1,2,1,0,0,0,0,01Sep2019,2,,,0,0,0,0,,0,0,73.31,4.27
+755_017,Shenzhen,Hotel,Money,25Aug2019,0,100,100,1,smaller than 40,1,0,1,1,0,1,5,4,1,0,0,0,0,Wang Lei,0,,,,,,,1,0,,,,01Sep2019,9,,,0,0,0,0,0,0,0,73.31,4.27
+755_018,Shenzhen,Hotel,No Money,25Aug2019,0,100,100,1,40+,1,0,0,1,0,1,6,3,1,0,0,0,0,Wang Lei,1,1,40+,1,1,0,2,1,0,1,6,2,01Sep2019,9,,,0,0,0,0,,0,0,73.31,4.27
+755_020,Shenzhen,Hotel,No Money,26Aug2019,0,100,100,0,smaller than 40,1,1,1,1,0,1,4,2,1,0,0,0,0,Wang Lei,0,,,,,,,1,0,,,,02Sep2019,2,,6,0,0,0,0,,0,0,73.31,4.27
+755_021,Shenzhen,Hotel,Money,26Aug2019,100,100,100,0,smaller than 40,1,1,0,1,0,0,4,3,1,0,0,0,0,Chang Wei,1,0,smaller than 40,1,1,0,3 or more,1,0,1,6,2,02Sep2019,2,6,6,0,0,0,0,0,0,0,73.31,4.27
+755_022,Shenzhen,Postal Office,Money,27Aug2019,0,100,100,0,40+,0,1,1,1,0,0,6,0,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,03Sep2019,9,6,6,0,0,0,0,0,0,0,73.31,4.27
+755_023,Shenzhen,Hotel,No Money,27Aug2019,0,100,100,1,smaller than 40,1,1,1,1,0,1,5,2,1,0,0,0,0,Chang Wei,0,,,,,,,1,0,,,,03Sep2019,2,,3,0,0,0,0,,0,0,73.31,4.27
+755_024,Shenzhen,Postal Office,No Money,27Aug2019,0,0,0,1,40+,1,1,1,1,0,0,6,1,0,0,0,0,1,Chang Wei,0,,,,,,,1,0,,,,03Sep2019,1,,,0,1,1,1,,1,0,73.31,4.27
+755_025,Shenzhen,Cultural Attractions,No Money,25Aug2019,100,100,100,0,smaller than 40,1,0,0,1,0,0,4,3,0,0,1,0,0,Wang Lei,0,,,,,,,1,0,,,,01Sep2019,2,6,6,0,0,0,0,,0,0,73.31,4.27
+755_027,Shenzhen,Public Place,No Money,26Aug2019,0,100,100,0,smaller than 40,1,1,1,1,0,1,5,2,0,0,0,1,0,Chang Wei,1,0,smaller than 40,1,1,1,3 or more,1,0,1,6,3,02Sep2019,2,3,6,0,0,0,0,,0,0,73.31,4.27
+755_028,Shenzhen,Cultural Attractions,No Money,26Aug2019,0,100,100,1,40+,0,0,1,1,1,0,3,2,0,0,1,0,0,Li Qiang,1,1,smaller than 40,0,0,0,3 or more,1,0,,6,0,02Sep2019,2,,6,0,0,0,0,,0,0,73.31,4.27
+755_029,Shenzhen,Cultural Attractions,Money,26Aug2019,100,100,0,0,smaller than 40,0,0,0,,0,0,4,1,0,0,1,0,0,Li Qiang,0,,,,,,,1,0,,,,02Sep2019,2,3,6,0,0,1,0,0,0,0,73.31,4.27
+755_030,Shenzhen,Bank,Money,26Aug2019,100,100,0,1,smaller than 40,0,1,1,1,1,0,6,2,0,1,0,0,0,Chang Wei,1,1,smaller than 40,1,1,1,3 or more,1,0,0,6,2,02Sep2019,3 or more,3,5,0,0,0,1,0,0,0,73.31,4.27
+755_031,Shenzhen,Bank,Money,26Aug2019,0,100,100,1,smaller than 40,0,1,1,1,1,1,6,2,0,1,0,0,0,Wang Lei,1,1,smaller than 40,1,1,1,3 or more,1,0,1,4,3,02Sep2019,3 or more,,6,0,0,0,0,0,0,0,73.31,4.27
+755_032,Shenzhen,Bank,No Money,26Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,1,5,3,0,1,0,0,0,Chang Wei,1,0,smaller than 40,0,1,1,2,1,0,1,6,2,02Sep2019,3 or more,0,6,0,0,0,0,,0,0,73.31,4.27
+755_033,Shenzhen,Cultural Attractions,No Money,26Aug2019,0,0,0,1,40+,0,1,,1,0,0,6,4,0,0,1,0,0,Wang Lei,0,,,,,,,1,0,,,,02Sep2019,9,6,6,0,1,1,1,,1,0,73.31,4.27
+755_034,Shenzhen,Bank,Money,27Aug2019,0,100,100,1,smaller than 40,1,1,1,1,1,1,5,4,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,03Sep2019,2,6,6,0,0,0,0,0,0,0,73.31,4.27
+755_035,Shenzhen,Public Place,No Money,27Aug2019,100,100,100,0,smaller than 40,0,1,0,,0,1,6,3,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,03Sep2019,9,6,6,0,0,0,0,,0,0,73.31,4.27
+755_036,Shenzhen,Public Place,Money,27Aug2019,100,100,100,1,smaller than 40,,0,0,1,0,0,6,0,0,0,0,1,0,Chang Wei,1,1,smaller than 40,0,1,1,3 or more,1,1,0,3,0,03Sep2019,3 or more,5,6,0,0,0,0,0,0,0,73.31,4.27
+755_037,Shenzhen,Cultural Attractions,Money,27Aug2019,0,100,100,1,smaller than 40,1,1,0,1,1,1,6,1,0,0,1,0,0,Chang Wei,0,,,,,,,1,1,,,,03Sep2019,2,6,6,0,0,0,0,0,0,0,73.31,4.27
+755_038,Shenzhen,Bank,Money,27Aug2019,0,100,100,1,smaller than 40,0,1,0,1,1,0,5,1,0,1,0,0,0,Li Qiang,0,,,,,,,1,1,,,,03Sep2019,1,,,0,0,0,0,0,0,0,73.31,4.27
+755_039,Shenzhen,Public Place,Money,27Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,1,4,3,0,0,0,1,0,Wang Lei,1,0,smaller than 40,1,1,1,3 or more,1,0,1,6,4,03Sep2019,2,,0,0,0,0,0,0,0,0,73.31,4.27
+755_040,Shenzhen,Bank,No Money,27Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,1,5,6,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,03Sep2019,1,,1,0,0,0,0,,0,0,73.31,4.27
+755_041,Shenzhen,Public Place,No Money,27Aug2019,100,100,100,0,40+,1,1,1,1,1,0,6,0,0,0,0,1,0,Chang Wei,0,,,,,,,1,0,,,,03Sep2019,2,6,6,0,0,0,0,,0,0,73.31,4.27
+755_042,Shenzhen,Bank,Money,27Aug2019,0,100,100,1,smaller than 40,0,1,1,1,1,0,5,2,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,03Sep2019,3 or more,,6,0,0,0,0,0,0,0,73.31,4.27
+755_043,Shenzhen,Bank,Money,27Aug2019,100,100,100,0,smaller than 40,1,1,1,1,1,0,5,4,0,1,0,0,0,Chang Wei,1,0,smaller than 40,0,1,1,2,1,0,0,6,3,03Sep2019,1,0,0,0,0,0,0,0,0,0,73.31,4.27
+755_044,Shenzhen,Public Place,No Money,27Aug2019,0,100,100,1,smaller than 40,1,1,1,1,1,0,6,6,0,0,0,1,0,Chang Wei,1,1,smaller than 40,1,1,1,2,1,0,0,6,3,03Sep2019,2,0,0,1,0,0,0,,0,0,73.31,4.27
+755_045,Shenzhen,Bank,No Money,28Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,0,5,4,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,04Sep2019,2,0,6,0,0,0,0,,0,0,73.31,4.27
+755_046,Shenzhen,Public Place,Money,28Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,0,6,1,0,0,0,1,0,Li Qiang,1,0,smaller than 40,1,1,1,3 or more,1,0,1,6,3,04Sep2019,9,0,3,0,0,0,0,0,0,0,73.31,4.27
+755_047,Shenzhen,Public Place,No Money,27Aug2019,0,100,100,0,40+,1,1,1,1,,0,4,6,0,0,0,1,0,Li Qiang,1,0,40+,1,1,1,3 or more,1,0,0,6,2,03Sep2019,3 or more,6,0,0,0,0,0,,0,0,73.31,4.27
+755_048,Shenzhen,Public Place,Money,28Aug2019,100,100,0,1,smaller than 40,1,1,1,1,0,0,6,2,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,04Sep2019,3 or more,,6,0,0,1,0,0,0,0,73.31,4.27
+755_049,Shenzhen,Cultural Attractions,Money,28Aug2019,0,100,100,0,40+,1,1,0,1,0,1,6,1,0,0,1,0,0,Li Qiang,1,0,smaller than 40,1,1,0,2,1,0,0,6,0,04Sep2019,3 or more,6,6,0,0,0,0,0,0,0,73.31,4.27
+755_050,Shenzhen,Bank,Money,28Aug2019,100,100,100,0,smaller than 40,1,1,1,1,1,1,6,0,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,04Sep2019,2,1,6,0,0,0,0,0,0,0,73.31,4.27
+755_051,Shenzhen,Public Place,Money,28Aug2019,0,100,100,0,40+,0,1,1,1,1,0,4,2,0,0,0,1,0,Chang Wei,1,0,smaller than 40,0,,1,2,1,0,0,6,4,04Sep2019,2,6,6,0,0,0,0,0,0,0,73.31,4.27
+755_053,Shenzhen,Cultural Attractions,No Money,28Aug2019,0,100,100,1,40+,0,0,1,1,1,0,4,0,0,0,1,0,0,Wang Lei,0,,,,,,,1,0,,,,04Sep2019,9,,3,0,0,0,0,,0,0,73.31,4.27
+755_054,Shenzhen,Cultural Attractions,No Money,28Aug2019,100,100,100,1,smaller than 40,1,1,1,1,0,0,6,3,0,0,1,0,0,Li Qiang,0,,,,,,,1,0,,,,04Sep2019,2,,3,0,0,0,0,,0,0,73.31,4.27
+10_001,Beijing,Public Place,Money,16Aug2019,0,0,0,1,smaller than 40,1,1,1,1,1,0,4,6,0,0,0,1,0,Chang Wei,0,,,,,,,1,1,,,,23Aug2019,,,,,1,1,1,1,1,0,5.93,4.2
+10_002,Beijing,Public Place,Money,16Aug2019,0,100,100,0,smaller than 40,1,0,1,1,0,0,6,1,0,0,0,1,0,Chang Wei,0,,,,,,,1,0,,,,23Aug2019,,,,,0,0,0,0,0,0,5.93,4.2
+10_003,Beijing,Cultural Attractions,No Money,16Aug2019,0,100,100,0,smaller than 40,1,0,0,1,0,0,6,2,0,0,1,0,0,Wang Lei,0,,,,,,,1,0,,,,23Aug2019,3 or more,4,6,1,0,0,0,,0,0,5.93,4.2
+10_004,Beijing,Hotel,No Money,16Aug2019,0,100,100,0,smaller than 40,1,1,1,1,0,0,6,3,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,1,0,2,1,0,0,6,5,23Aug2019,3 or more,6,6,0,0,0,0,,0,0,5.93,4.2
+10_005,Beijing,Cultural Attractions,No Money,16Aug2019,0,100,100,1,smaller than 40,1,1,1,1,0,0,5,3,0,0,1,0,0,Li Qiang,0,,,,,,,1,0,,,,23Aug2019,3 or more,3,6,0,0,0,0,,0,0,5.93,4.2
+10_006,Beijing,Cultural Attractions,No Money,16Aug2019,0,0,0,0,smaller than 40,1,0,0,1,0,0,6,2,0,0,1,0,0,Chang Wei,0,,,,,,,1,0,,,,23Aug2019,,,,,1,1,1,,1,0,5.93,4.2
+10_007,Beijing,Postal Office,No Money,16Aug2019,0,100,100,0,smaller than 40,1,0,1,1,0,0,5,4,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,23Aug2019,,,,,0,0,0,,0,0,5.93,4.2
+10_008,Beijing,Public Place,Money,19Aug2019,100,100,100,0,smaller than 40,1,1,1,1,1,0,6,5,0,0,0,1,0,Chang Wei,0,,,,,,,1,0,,,,26Aug2019,3 or more,3,5,0,0,0,0,0,0,0,5.93,4.2
+10_009,Beijing,Postal Office,No Money,16Aug2019,0,100,100,0,smaller than 40,1,0,1,1,0,0,5,3,0,0,0,0,1,Li Qiang,1,0,smaller than 40,0,1,0,3 or more,1,0,0,6,1,23Aug2019,1,5,6,0,0,0,0,,0,0,5.93,4.2
+10_010,Beijing,Bank,Money,16Aug2019,100,100,100,0,smaller than 40,1,0,1,1,0,0,5,4,0,1,0,0,0,Wang Lei,1,0,40+,1,0,1,1,1,0,0,5,4,23Aug2019,1,0,6,0,0,0,0,0,0,0,5.93,4.2
+10_011,Beijing,Public Place,No Money,22Aug2019,0,0,0,0,smaller than 40,1,1,0,1,0,0,6,6,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,29Aug2019,,,,,1,1,1,,1,0,5.93,4.2
+10_012,Beijing,Hotel,Money,19Aug2019,0,0,0,1,smaller than 40,1,1,1,1,0,0,5,6,1,0,0,0,0,Li Qiang,1,1,smaller than 40,1,1,0,3 or more,1,1,0,6,4,26Aug2019,,,,,1,1,1,1,1,0,5.93,4.2
+10_013,Beijing,Postal Office,No Money,19Aug2019,100,100,100,0,40+,1,1,1,1,1,0,5,5,0,0,0,0,1,Li Qiang,0,,,,,,,1,0,,,,26Aug2019,2,6,6,0,0,0,0,,0,0,5.93,4.2
+10_014,Beijing,Cultural Attractions,Money,18Aug2019,0,100,100,0,smaller than 40,1,1,1,1,0,0,5,5,0,0,1,0,0,Chang Wei,1,0,smaller than 40,1,0,1,1,1,0,0,6,6,25Aug2019,2,6,5,1,0,0,0,0,0,0,5.93,4.2
+10_015,Beijing,Hotel,No Money,18Aug2019,100,100,100,0,smaller than 40,1,0,1,1,0,1,6,5,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,1,0,1,1,0,1,6,4,25Aug2019,,,,,0,0,0,,0,0,5.93,4.2
+10_016,Beijing,Hotel,Money,18Aug2019,0,100,100,0,smaller than 40,1,1,1,1,1,0,5,6,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,0,1,1,1,0,0,6,4,25Aug2019,,,,,0,0,0,0,0,0,5.93,4.2
+10_017,Beijing,Cultural Attractions,Money,18Aug2019,100,100,100,0,smaller than 40,1,0,1,1,0,0,6,5,0,0,1,0,0,Li Qiang,0,,,,,,,1,0,,,,25Aug2019,1,6,6,0,0,0,0,0,0,0,5.93,4.2
+10_018,Beijing,Cultural Attractions,No Money,18Aug2019,0,0,0,0,40+,1,0,0,1,0,0,4,6,0,0,1,0,0,Wang Lei,0,,,,,,,1,0,,,,25Aug2019,,,,,1,1,1,,1,0,5.93,4.2
+10_019,Beijing,Cultural Attractions,No Money,18Aug2019,0,100,100,0,smaller than 40,1,0,0,1,0,0,6,5,0,0,1,0,0,Li Qiang,1,0,smaller than 40,1,0,0,1,1,0,0,6,1,25Aug2019,,,,,0,0,0,,0,0,5.93,4.2
+10_020,Beijing,Hotel,No Money,18Aug2019,0,0,0,0,smaller than 40,1,1,1,1,0,0,5,6,1,0,0,0,0,Li Qiang,0,,,,,,,1,0,,,,25Aug2019,,,,,1,1,1,,1,0,5.93,4.2
+10_021,Beijing,Cultural Attractions,Money,18Aug2019,0,100,100,0,smaller than 40,1,0,1,1,0,0,6,6,0,0,1,0,0,Chang Wei,0,,,,,,,1,0,,,,25Aug2019,3 or more,6,6,0,0,0,0,0,0,0,5.93,4.2
+10_023,Beijing,Hotel,No Money,18Aug2019,0,100,100,1,smaller than 40,1,1,0,1,0,0,3,6,1,0,0,0,0,Wang Lei,1,1,smaller than 40,1,1,0,3 or more,1,0,0,6,1,25Aug2019,2,0,6,0,0,0,0,,0,0,5.93,4.2
+10_024,Beijing,Hotel,No Money,18Aug2019,100,100,100,0,smaller than 40,1,1,1,1,0,0,4,5,1,0,0,0,0,Li Qiang,0,,,,,,,1,0,,,,25Aug2019,2,6,6,0,0,0,0,,0,0,5.93,4.2
+10_025,Beijing,Cultural Attractions,Money,18Aug2019,0,100,0,0,smaller than 40,1,0,0,1,1,0,5,6,0,0,1,0,0,Chang Wei,1,0,smaller than 40,1,0,0,1,1,0,0,6,2,25Aug2019,,,,,0,0,0,1,0,0,5.93,4.2
+10_026,Beijing,Cultural Attractions,Money,18Aug2019,0,100,100,0,smaller than 40,1,1,0,1,1,0,6,5,0,0,1,0,0,Chang Wei,0,,,,,,,1,0,,,,25Aug2019,2,0,6,0,0,0,0,0,0,0,5.93,4.2
+10_027,Beijing,Postal Office,Money,19Aug2019,0,0,0,0,smaller than 40,0,1,1,1,1,0,5,6,0,0,0,0,1,Chang Wei,1,0,40+,0,1,1,3 or more,1,0,0,6,1,26Aug2019,,,,,1,1,1,1,1,0,5.93,4.2
+10_028,Beijing,Public Place,Money,19Aug2019,0,0,0,1,smaller than 40,0,1,1,1,1,0,6,6,0,0,0,1,0,Li Qiang,0,,,,,,,1,1,,,,26Aug2019,,,,,1,1,1,1,1,0,5.93,4.2
+10_029,Beijing,Public Place,Money,19Aug2019,100,100,100,0,smaller than 40,0,1,1,1,0,0,6,6,0,0,0,1,0,Wang Lei,1,0,smaller than 40,0,1,1,2,1,0,0,6,3,26Aug2019,2,,6,0,0,0,0,0,0,0,5.93,4.2
+10_030,Beijing,Public Place,No Money,19Aug2019,0,0,0,1,40+,0,1,1,1,0,0,6,5,0,0,0,1,0,Li Qiang,1,1,40+,0,1,1,3 or more,1,1,0,6,3,26Aug2019,,,,,1,1,1,,1,0,5.93,4.2
+10_031,Beijing,Postal Office,No Money,19Aug2019,0,0,0,0,smaller than 40,0,0,1,1,1,0,6,6,0,0,0,0,1,Wang Lei,0,,,,,,,1,0,,,,26Aug2019,,,,,1,1,1,,1,0,5.93,4.2
+10_032,Beijing,Bank,No Money,19Aug2019,0,0,0,0,smaller than 40,0,1,1,1,1,0,6,6,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,26Aug2019,,,,,1,1,1,,1,0,5.93,4.2
+10_033,Beijing,Postal Office,Money,19Aug2019,100,100,100,0,smaller than 40,0,1,1,1,0,0,5,1,0,0,0,0,1,Chang Wei,0,,,,,,,1,0,,,,26Aug2019,1,0,,0,0,0,0,0,0,0,5.93,4.2
+10_034,Beijing,Bank,No Money,19Aug2019,100,100,100,1,smaller than 40,0,0,1,1,1,0,6,6,0,1,0,0,0,Wang Lei,0,,,,,,,1,0,,,,26Aug2019,1,5,6,1,0,0,0,,0,0,5.93,4.2
+10_035,Beijing,Postal Office,No Money,20Aug2019,0,0,0,0,smaller than 40,1,0,0,1,0,0,5,5,0,0,0,0,1,Wang Lei,1,0,smaller than 40,1,0,0,1,1,0,0,6,1,27Aug2019,,,,,1,1,1,,1,0,5.93,4.2
+10_036,Beijing,Postal Office,Money,20Aug2019,100,100,100,1,smaller than 40,0,1,1,1,0,0,6,4,0,0,0,0,1,Chang Wei,0,,,,,,,1,0,,,,27Aug2019,3 or more,,6,0,0,0,0,0,0,0,5.93,4.2
+10_037,Beijing,Public Place,Money,21Aug2019,100,100,100,0,smaller than 40,0,0,1,1,1,0,6,6,0,0,0,1,0,Wang Lei,0,,,,,,,1,0,,,,28Aug2019,2,0,6,0,0,0,0,0,0,0,5.93,4.2
+10_038,Beijing,Public Place,Money,20Aug2019,0,100,100,0,smaller than 40,1,1,1,1,0,0,6,3,0,0,0,1,0,Li Qiang,1,0,smaller than 40,0,1,0,3 or more,1,0,0,6,1,27Aug2019,1,6,6,0,0,0,0,0,0,0,5.93,4.2
+10_039,Beijing,Bank,Money,20Aug2019,100,100,100,1,40+,0,1,1,1,0,0,5,6,0,1,0,0,0,Wang Lei,1,1,40+,0,1,1,3 or more,1,0,0,6,2,27Aug2019,3 or more,3,6,0,0,0,0,0,0,0,5.93,4.2
+10_040,Beijing,Bank,Money,21Aug2019,0,0,0,0,smaller than 40,1,0,1,1,1,0,3,6,0,1,0,0,0,Wang Lei,1,0,smaller than 40,0,1,1,2,1,0,0,6,1,28Aug2019,,,,,1,1,1,1,1,0,5.93,4.2
+10_041,Beijing,Postal Office,Money,20Aug2019,0,0,0,0,smaller than 40,0,1,1,1,1,0,5,5,0,0,0,0,1,Wang Lei,1,0,smaller than 40,1,1,1,3 or more,1,0,0,5,1,27Aug2019,,,,,1,1,1,1,1,0,5.93,4.2
+10_042,Beijing,Postal Office,Money,20Aug2019,100,100,100,1,40+,1,0,1,1,0,0,4,6,0,0,0,0,1,Chang Wei,1,1,40+,1,0,1,1,1,0,0,4,1,27Aug2019,3 or more,,,0,0,0,0,0,0,0,5.93,4.2
+10_043,Beijing,Public Place,No Money,21Aug2019,0,100,100,0,smaller than 40,1,1,0,1,0,0,6,4,0,0,0,1,0,Chang Wei,1,0,smaller than 40,1,1,0,3 or more,1,0,0,6,3,28Aug2019,3 or more,5,6,1,0,0,0,,0,0,5.93,4.2
+10_044,Beijing,Bank,Money,22Aug2019,0,100,100,1,40+,0,1,1,1,1,0,6,5,0,1,0,0,0,Wang Lei,1,1,40+,0,1,1,1,1,0,0,6,3,29Aug2019,3 or more,3,6,0,0,0,0,0,0,0,5.93,4.2
+10_045,Beijing,Hotel,Money,21Aug2019,0,0,0,1,smaller than 40,1,0,1,1,0,0,6,6,1,0,0,0,0,Chang Wei,1,1,smaller than 40,1,0,0,1,1,0,0,6,4,28Aug2019,,,,,1,1,1,1,1,0,5.93,4.2
+10_046,Beijing,Hotel,Money,21Aug2019,0,0,0,0,smaller than 40,1,1,1,1,0,1,6,6,1,0,0,0,0,Chang Wei,0,,,,,,,1,0,,,,28Aug2019,,,,,1,1,1,1,1,0,5.93,4.2
+10_047,Beijing,Public Place,No Money,21Aug2019,0,100,100,0,40+,1,1,0,1,0,0,6,4,0,0,0,1,0,Chang Wei,0,,,,,,,1,0,,,,28Aug2019,1,0,,1,0,0,0,,0,0,5.93,4.2
+10_050,Beijing,Public Place,Money,22Aug2019,0,100,0,0,smaller than 40,1,1,1,1,1,0,6,6,0,0,0,1,0,Chang Wei,1,0,smaller than 40,1,1,0,3 or more,1,0,0,6,3,29Aug2019,2,3,6,0,1,0,0,0,0,0,5.93,4.2
+10_051,Beijing,Cultural Attractions,No Money,22Aug2019,0,100,100,0,smaller than 40,1,1,1,1,0,0,5,6,0,0,1,0,0,Li Qiang,1,0,smaller than 40,1,1,0,2,1,0,0,6,2,29Aug2019,1,2,6,0,0,0,0,,0,0,5.93,4.2
+10_052,Beijing,Hotel,Money,21Aug2019,0,0,0,0,smaller than 40,1,1,0,1,0,1,6,6,1,0,0,0,0,Li Qiang,1,0,smaller than 40,1,1,0,2,1,0,1,6,3,28Aug2019,,,,,1,1,1,1,1,0,5.93,4.2
+10_053,Beijing,Hotel,No Money,21Aug2019,100,0,0,0,smaller than 40,1,0,1,1,0,0,6,5,1,0,0,0,0,Wang Lei,1,0,smaller than 40,1,0,1,1,1,0,0,6,3,28Aug2019,3 or more,2,6,0,1,1,1,,1,0,5.93,4.2
+10_054,Beijing,Bank,No Money,22Aug2019,0,100,100,1,smaller than 40,1,1,1,1,1,0,5,5,0,1,0,0,0,Li Qiang,1,1,smaller than 40,0,1,1,3 or more,1,0,0,6,3,29Aug2019,3 or more,2,6,0,0,0,0,,0,0,5.93,4.2
+10_055,Beijing,Bank,No Money,22Aug2019,0,100,100,0,smaller than 40,1,0,1,1,1,0,6,6,0,1,0,0,0,Li Qiang,1,0,smaller than 40,1,0,0,1,1,0,0,6,1,29Aug2019,3 or more,,5,0,0,0,0,,0,0,5.93,4.2
+10_056,Beijing,Bank,No Money,22Aug2019,0,100,0,0,smaller than 40,0,1,1,1,1,0,5,6,0,1,0,0,0,Chang Wei,0,,,,,,,1,0,,,,29Aug2019,3 or more,4,6,0,0,1,1,,0,0,5.93,4.2
+10_057,Beijing,Bank,No Money,22Aug2019,0,100,100,0,smaller than 40,0,1,1,1,0,0,6,6,0,1,0,0,0,Li Qiang,0,,,,,,,1,0,,,,29Aug2019,3 or more,,6,0,0,0,0,,0,0,5.93,4.2
+10_058,Beijing,Bank,No Money,22Aug2019,0,0,0,0,smaller than 40,0,1,1,1,1,0,6,6,0,1,0,0,0,Wang Lei,1,0,smaller than 40,0,1,1,2,1,1,0,6,5,29Aug2019,,,,,1,1,1,,1,0,5.93,4.2
+10_059,Beijing,Bank,Money,22Aug2019,0,0,0,0,smaller than 40,0,1,0,1,1,0,6,4,0,1,0,0,0,Chang Wei,1,0,smaller than 40,1,1,0,1,1,0,0,6,3,29Aug2019,,,,,1,1,1,1,1,0,5.93,4.2
+10_060,Beijing,Postal Office,No Money,22Aug2019,0,0,0,0,smaller than 40,0,1,1,1,1,0,6,6,0,0,0,0,1,Li Qiang,0,,,,,,,1,1,,,,29Aug2019,,,,,1,1,1,,1,0,5.93,4.2
