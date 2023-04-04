@@ -10,13 +10,13 @@ Structure and contents
 
 -data files:
 
-•	Replication experiment and others_data (stata data file): Data(in Stata format) including data for the extended replication experiment of the lost wallet experiment in Cohn et al. (2019), online survey data, and the data extracted from China Statistical Yearbook
+•	Replication experiment and others_data (stata data file).dta: Data(in Stata format) including data for the extended replication experiment of the lost wallet experiment in Cohn et al. (2019), online survey data, and the data extracted from China Statistical Yearbook
 
-•	Online national representative survey_data (stata data file): Stata format data for the nationally representative survey
+•	Online national representative survey_data (stata data file).dta: Stata format data for the nationally representative survey
 
-•	Replication experiment and others_data (csv file): Data(csv format) including data for the extended replication experiment of the lost wallet experiment in Cohn et al. (2019), online survey data, and the data extracted from China Statistical Yearbook
+•	Replication experiment and others_data (csv file).csv: Data(csv format) including data for the extended replication experiment of the lost wallet experiment in Cohn et al. (2019), online survey data, and the data extracted from China Statistical Yearbook
 
-•	Online national representative survey_data (csv file): CSV format data for the nationally representative survey
+•	Online national representative survey_data (csv file).csv: CSV format data for the nationally representative survey
 
 
 -code file:
